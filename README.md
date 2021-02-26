@@ -14,9 +14,9 @@ SAS Project:
   Project 2.docx - Analysis of the dataset
   481 Project 2.sas - SAS code
   
- Access Project: 
-      CIS208_F2019_Data_Aniciete.accdb - Access database
-      CIS208_F2019_Project_Aniciete - Presentation of the database
+Access Project: 
+  CIS208_F2019_Data_Aniciete.accdb - Access database
+  CIS208_F2019_Project_Aniciete - Presentation of the database
  
- SQL Project:
+SQL Project:
   SQL Project.docx - Final exam project with snippets of code and corresponding output.
