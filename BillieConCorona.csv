@@ -1,0 +1,1300 @@
+Entry,Date,Resale_Price,Type,Type_Rank,Venue,Days_Until,Day_Rank,Interested,Radio_Plays,Face,Corona,Day_Rank2
+1,27-Feb,958,Pit,10,American Airlines Arena,11,1,5974,1428,145.5,0,1
+2,27-Feb,425,Floor,9,American Airlines Arena,11,1,5974,1428,145.5,0,1
+3,27-Feb,632,100A,8,American Airlines Arena,11,1,5974,1428,145.5,0,1
+4,27-Feb,542,100B,6,American Airlines Arena,11,1,5974,1428,95.5,0,1
+5,27-Feb,218,300A,2,American Airlines Arena,11,1,5974,1428,95.5,0,1
+6,27-Feb,216,300B,1,American Airlines Arena,11,1,5974,1428,65.5,0,1
+7,27-Feb,650,Pit,10,Amway Center,12,2,8715,519,146,0,2
+8,27-Feb,543,Floor,9,Amway Center,12,2,8715,519,146,0,2
+9,27-Feb,447,100A,8,Amway Center,12,2,8715,519,146,0,2
+10,27-Feb,587,100B,6,Amway Center,12,2,8715,519,146,0,2
+11,27-Feb,369,SuiteA,7,Amway Center,12,2,8715,519,146,0,2
+12,27-Feb,271,SuiteB,5,Amway Center,12,2,8715,519,146,0,2
+13,27-Feb,221,200A,4,Amway Center,12,2,8715,519,96.5,0,2
+14,27-Feb,202,200B,3,Amway Center,12,2,8715,519,96.5,0,2
+15,27-Feb,643,Pit,10,PNC Arena,14,4,6689,148,125.5,0,4
+16,27-Feb,531,Floor,9,PNC Arena,14,4,6689,148,125.5,0,4
+17,27-Feb,307,100A,8,PNC Arena,14,4,6689,148,125.5,0,4
+18,27-Feb,207,100B,6,PNC Arena,14,4,6689,148,125.5,0,4
+19,27-Feb,335,200A,4,PNC Arena,14,4,6689,148,75.5,0,4
+20,27-Feb,320,200B,3,PNC Arena,14,4,6689,148,75.5,0,4
+21,27-Feb,195,300A,2,PNC Arena,14,4,6689,148,55.5,0,4
+22,27-Feb,162,300B,1,PNC Arena,14,4,6689,148,55.5,0,4
+23,27-Feb,371,Pit,10,Wells Fargo Center,15,6,7654,401,149.25,0,5
+24,27-Feb,325,Floor,9,Wells Fargo Center,15,6,7654,401,128,0,5
+25,27-Feb,299,100A,8,Wells Fargo Center,15,6,7654,401,149.25,0,5
+26,27-Feb,262,100B,6,Wells Fargo Center,15,6,7654,401,149.25,0,5
+27,27-Feb,304,SuiteA,7,Wells Fargo Center,15,6,7654,401,128,0,5
+28,27-Feb,252,SuiteB,5,Wells Fargo Center,15,6,7654,401,128,0,5
+29,27-Feb,190,200A,4,Wells Fargo Center,15,6,7654,401,39.4,0,5
+30,27-Feb,193,200B,3,Wells Fargo Center,15,6,7654,401,39.4,0,5
+31,27-Feb,257,300A,2,Wells Fargo Center,15,6,7654,401,39.4,0,5
+32,27-Feb,663,Pit,10,Madison Square Garden,17,5,2596,256,149.5,0,7
+33,27-Feb,547,Floor,9,Madison Square Garden,17,5,2596,256,149.5,0,7
+34,27-Feb,600,100A,8,Madison Square Garden,17,5,2596,256,149.5,0,7
+35,27-Feb,342,100B,6,Madison Square Garden,17,5,2596,256,149.5,0,7
+36,27-Feb,257,200A,4,Madison Square Garden,17,5,2596,256,99.5,0,7
+37,27-Feb,312,300A,2,Madison Square Garden,17,5,2596,256,39.5,0,7
+38,27-Feb,386,Pit,10,Prudential Center,18,1,1063,2,149.5,0,1
+39,27-Feb,346,Floor,9,Prudential Center,18,1,1063,2,149.5,0,1
+40,27-Feb,303,100A,8,Prudential Center,18,1,1063,2,149.5,0,1
+41,27-Feb,199,100B,6,Prudential Center,18,1,1063,2,149.5,0,1
+42,27-Feb,213,200A,4,Prudential Center,18,1,1063,2,99.5,0,1
+43,27-Feb,167,200B,3,Prudential Center,18,1,1063,2,99.5,0,1
+44,27-Feb,161,300A,2,Prudential Center,18,1,1063,2,39.5,0,1
+45,27-Feb,165,300B,1,Prudential Center,18,1,1063,2,39.5,0,1
+46,27-Feb,414,Pit,10,Capital One Arena,20,3,7953,421,149.5,0,3
+47,27-Feb,382,Floor,9,Capital One Arena,20,3,7953,421,149.5,0,3
+48,27-Feb,346,100A,8,Capital One Arena,20,3,7953,421,149.5,0,3
+49,27-Feb,296,100B,6,Capital One Arena,20,3,7953,421,149.5,0,3
+50,27-Feb,322,SuiteA,7,Capital One Arena,20,3,7953,421,149.5,0,3
+51,27-Feb,311,200A,4,Capital One Arena,20,3,7953,421,99.5,0,3
+52,27-Feb,325,200B,3,Capital One Arena,20,3,7953,421,99.5,0,3
+53,27-Feb,194,300A,2,Capital One Arena,20,3,7953,421,39.5,0,3
+54,27-Feb,199,300B,1,Capital One Arena,20,3,7953,421,39.5,0,3
+55,27-Feb,868,Pit,10,TD Garden,21,4,7541,1205,149.5,0,4
+56,27-Feb,359,Floor,9,TD Garden,21,4,7541,1205,149.5,0,4
+57,27-Feb,384,100A,8,TD Garden,21,4,7541,1205,145.5,0,4
+58,27-Feb,316,100B,6,TD Garden,21,4,7541,1205,99.5,0,4
+59,27-Feb,351,SuiteA,7,TD Garden,21,4,7541,1205,149.5,0,4
+60,27-Feb,362,SuiteB,5,TD Garden,21,4,7541,1205,149.5,0,4
+61,27-Feb,315,200A,4,TD Garden,21,4,7541,1205,59.5,0,4
+62,27-Feb,294,200B,3,TD Garden,21,4,7541,1205,39.5,0,4
+63,27-Feb,415,Pit,10,United Center,26,2,7567,585,149.5,0,2
+64,27-Feb,391,Floor,9,United Center,26,2,7567,585,149.5,0,2
+65,27-Feb,431,100A,8,United Center,26,2,7567,585,149.5,0,2
+66,27-Feb,244,100B,6,United Center,26,2,7567,585,149.5,0,2
+67,27-Feb,211,200A,4,United Center,26,2,7567,585,99.5,0,2
+68,27-Feb,374,200B,3,United Center,26,2,7567,585,99.5,0,2
+69,27-Feb,237,300A,2,United Center,26,2,7567,585,39.5,0,2
+70,27-Feb,200,300B,1,United Center,26,2,7567,585,39.5,0,2
+71,27-Feb,950,Pit,10,Bridgestone Arena,30,6,7498,916,123,0,5
+72,27-Feb,428,Floor,9,Bridgestone Arena,30,6,7498,916,123,0,5
+73,27-Feb,381,100A,8,Bridgestone Arena,30,6,7498,916,73,0,5
+74,27-Feb,325,100B,6,Bridgestone Arena,30,6,7498,916,73,0,5
+75,27-Feb,365,200A,4,Bridgestone Arena,30,6,7498,916,53.5,0,5
+76,27-Feb,330,200B,3,Bridgestone Arena,30,6,7498,916,53.5,0,5
+77,27-Feb,212,300A,2,Bridgestone Arena,30,6,7498,916,34.4,0,5
+78,27-Feb,201,300B,1,Bridgestone Arena,30,6,7498,916,34.4,0,5
+79,27-Feb,399,Pit,10,The Forum A,36,7,2215,2162,149.5,0,6
+80,27-Feb,427,Floor,9,The Forum A,36,7,2215,2162,149.5,0,6
+81,27-Feb,464,100A,8,The Forum A,36,7,2215,2162,149.5,0,6
+82,27-Feb,301,100B,6,The Forum A,36,7,2215,2162,149.5,0,6
+83,27-Feb,212,200A,4,The Forum A,36,7,2215,2162,59.5,0,6
+84,27-Feb,198,200B,3,The Forum A,36,7,2215,2162,39.5,0,6
+85,27-Feb,397,Pit,10,The Forum B,37,5,2286,2162,149.5,0,7
+86,27-Feb,339,Floor,9,The Forum B,37,5,2286,2162,149.5,0,7
+87,27-Feb,449,100A,8,The Forum B,37,5,2286,2162,149.5,0,7
+88,27-Feb,319,100B,6,The Forum B,37,5,2286,2162,149.5,0,7
+89,27-Feb,269,200A,4,The Forum B,37,5,2286,2162,59.5,0,7
+90,27-Feb,221,200B,3,The Forum B,37,5,2286,2162,39.5,0,7
+91,27-Feb,391,Pit,10,The Forum C,38,2,2767,2162,149.5,0,2
+92,27-Feb,303,Floor,9,The Forum C,38,2,2767,2162,149.5,0,2
+93,27-Feb,501,100A,8,The Forum C,38,2,2767,2162,149.5,0,2
+94,27-Feb,272,100B,6,The Forum C,38,2,2767,2162,149.5,0,2
+95,27-Feb,212,200A,4,The Forum C,38,2,2767,2162,59.5,0,2
+96,27-Feb,173,200B,3,The Forum C,38,2,2767,2162,39.5,0,2
+97,28-Feb,560,Pit,10,American Airlines Arena,10,1,5998,1428,145.5,0,1
+98,28-Feb,1011,Floor,9,American Airlines Arena,10,1,5998,1428,145.5,0,1
+99,28-Feb,622,100A,8,American Airlines Arena,10,1,5998,1428,145.5,0,1
+100,28-Feb,488,100B,6,American Airlines Arena,10,1,5998,1428,95.5,0,1
+101,28-Feb,214,300A,2,American Airlines Arena,10,1,5998,1428,95.5,0,1
+102,28-Feb,212,300B,1,American Airlines Arena,10,1,5998,1428,65.5,0,1
+103,28-Feb,639,Pit,10,Amway Center,11,2,8797,519,146,0,2
+104,28-Feb,534,Floor,9,Amway Center,11,2,8797,519,146,0,2
+105,28-Feb,444,100A,8,Amway Center,11,2,8797,519,146,0,2
+106,28-Feb,577,100B,6,Amway Center,11,2,8797,519,146,0,2
+107,28-Feb,351,SuiteA,7,Amway Center,11,2,8797,519,146,0,2
+108,28-Feb,307,SuiteB,5,Amway Center,11,2,8797,519,146,0,2
+109,28-Feb,209,200A,4,Amway Center,11,2,8797,519,96.5,0,2
+110,28-Feb,204,200B,3,Amway Center,11,2,8797,519,96.5,0,2
+111,28-Feb,386,Pit,10,PNC Arena,13,4,6714,148,125.5,0,4
+112,28-Feb,503,Floor,9,PNC Arena,13,4,6714,148,125.5,0,4
+113,28-Feb,325,100A,8,PNC Arena,13,4,6714,148,125.5,0,4
+114,28-Feb,203,100B,6,PNC Arena,13,4,6714,148,125.5,0,4
+115,28-Feb,329,200A,4,PNC Arena,13,4,6714,148,75.5,0,4
+116,28-Feb,338,200B,3,PNC Arena,13,4,6714,148,75.5,0,4
+117,28-Feb,186,300A,2,PNC Arena,13,4,6714,148,55.5,0,4
+118,28-Feb,159,300B,1,PNC Arena,13,4,6714,148,55.5,0,4
+119,28-Feb,338,Pit,10,Wells Fargo Center,14,6,7708,401,149.25,0,5
+120,28-Feb,289,Floor,9,Wells Fargo Center,14,6,7708,401,128,0,5
+121,28-Feb,284,100A,8,Wells Fargo Center,14,6,7708,401,149.25,0,5
+122,28-Feb,262,100B,6,Wells Fargo Center,14,6,7708,401,149.25,0,5
+123,28-Feb,299,SuiteA,7,Wells Fargo Center,14,6,7708,401,128,0,5
+124,28-Feb,257,SuiteB,5,Wells Fargo Center,14,6,7708,401,128,0,5
+125,28-Feb,177,200A,4,Wells Fargo Center,14,6,7708,401,39.4,0,5
+126,28-Feb,200,200B,3,Wells Fargo Center,14,6,7708,401,39.4,0,5
+127,28-Feb,252,300A,2,Wells Fargo Center,14,6,7708,401,39.4,0,5
+128,28-Feb,397,Pit,10,Madison Square Garden,16,5,2728,256,149.5,0,7
+129,28-Feb,591,Floor,9,Madison Square Garden,16,5,2728,256,149.5,0,7
+130,28-Feb,590,100A,8,Madison Square Garden,16,5,2728,256,149.5,0,7
+131,28-Feb,356,100B,6,Madison Square Garden,16,5,2728,256,149.5,0,7
+132,28-Feb,289,200A,4,Madison Square Garden,16,5,2728,256,99.5,0,7
+133,28-Feb,307,300A,2,Madison Square Garden,16,5,2728,256,39.5,0,7
+134,28-Feb,355,Pit,10,Prudential Center,17,1,1117,2,149.5,0,1
+135,28-Feb,331,Floor,9,Prudential Center,17,1,1117,2,149.5,0,1
+136,28-Feb,297,100A,8,Prudential Center,17,1,1117,2,149.5,0,1
+137,28-Feb,195,100B,6,Prudential Center,17,1,1117,2,149.5,0,1
+138,28-Feb,205,200A,4,Prudential Center,17,1,1117,2,99.5,0,1
+139,28-Feb,164,200B,3,Prudential Center,17,1,1117,2,99.5,0,1
+140,28-Feb,158,300A,2,Prudential Center,17,1,1117,2,39.5,0,1
+141,28-Feb,165,300B,1,Prudential Center,17,1,1117,2,39.5,0,1
+142,28-Feb,370,Pit,10,Capital One Arena,19,3,8010,421,149.5,0,3
+143,28-Feb,373,Floor,9,Capital One Arena,19,3,8010,421,149.5,0,3
+144,28-Feb,403,100A,8,Capital One Arena,19,3,8010,421,149.5,0,3
+145,28-Feb,289,100B,6,Capital One Arena,19,3,8010,421,149.5,0,3
+146,28-Feb,317,SuiteA,7,Capital One Arena,19,3,8010,421,149.5,0,3
+147,28-Feb,339,200A,4,Capital One Arena,19,3,8010,421,99.5,0,3
+148,28-Feb,299,200B,3,Capital One Arena,19,3,8010,421,99.5,0,3
+149,28-Feb,191,300A,2,Capital One Arena,19,3,8010,421,39.5,0,3
+150,28-Feb,195,300B,1,Capital One Arena,19,3,8010,421,39.5,0,3
+151,28-Feb,680,Pit,10,TD Garden,20,4,7621,1205,149.5,0,4
+152,28-Feb,353,Floor,9,TD Garden,20,4,7621,1205,149.5,0,4
+153,28-Feb,355,100A,8,TD Garden,20,4,7621,1205,145.5,0,4
+154,28-Feb,313,100B,6,TD Garden,20,4,7621,1205,99.5,0,4
+155,28-Feb,356,SuiteA,7,TD Garden,20,4,7621,1205,149.5,0,4
+156,28-Feb,310,200A,4,TD Garden,20,4,7621,1205,149.5,0,4
+157,28-Feb,307,200B,3,TD Garden,20,4,7621,1205,59.5,0,4
+158,28-Feb,294,Pit,10,United Center,25,2,7595,585,149.5,0,2
+159,28-Feb,443,Floor,9,United Center,25,2,7595,585,149.5,0,2
+160,28-Feb,424,100A,8,United Center,25,2,7595,585,149.5,0,2
+161,28-Feb,253,100B,6,United Center,25,2,7595,585,149.5,0,2
+162,28-Feb,234,200A,4,United Center,25,2,7595,585,99.5,0,2
+163,28-Feb,354,200B,3,United Center,25,2,7595,585,99.5,0,2
+164,28-Feb,261,300A,2,United Center,25,2,7595,585,39.5,0,2
+165,28-Feb,197,300B,1,United Center,25,2,7595,585,39.5,0,2
+166,28-Feb,680,Pit,10,Bridgestone Arena,29,6,7581,916,123,0,5
+167,28-Feb,421,Floor,9,Bridgestone Arena,29,6,7581,916,123,0,5
+168,28-Feb,375,100A,8,Bridgestone Arena,29,6,7581,916,73,0,5
+169,28-Feb,372,100B,6,Bridgestone Arena,29,6,7581,916,73,0,5
+170,28-Feb,413,200A,4,Bridgestone Arena,29,6,7581,916,53.5,0,5
+171,28-Feb,324,200B,3,Bridgestone Arena,29,6,7581,916,53.5,0,5
+172,28-Feb,213,300A,2,Bridgestone Arena,29,6,7581,916,34.4,0,5
+173,28-Feb,211,300B,1,Bridgestone Arena,29,6,7581,916,34.4,0,5
+174,28-Feb,375,Pit,10,The Forum A,35,7,2237,2162,149.5,0,6
+175,28-Feb,420,Floor,9,The Forum A,35,7,2237,2162,149.5,0,6
+176,28-Feb,457,100A,8,The Forum A,35,7,2237,2162,149.5,0,6
+177,28-Feb,299,100B,6,The Forum A,35,7,2237,2162,149.5,0,6
+178,28-Feb,209,200A,4,The Forum A,35,7,2237,2162,59.5,0,6
+179,28-Feb,200,200B,3,The Forum A,35,7,2237,2162,39.5,0,6
+180,28-Feb,371,Pit,10,The Forum B,36,5,2415,2162,149.5,0,7
+181,28-Feb,481,Floor,9,The Forum B,36,5,2415,2162,149.5,0,7
+182,28-Feb,442,100A,8,The Forum B,36,5,2415,2162,149.5,0,7
+183,28-Feb,302,100B,6,The Forum B,36,5,2415,2162,149.5,0,7
+184,28-Feb,265,200A,4,The Forum B,36,5,2415,2162,59.5,0,7
+185,28-Feb,218,200B,3,The Forum B,36,5,2415,2162,39.5,0,7
+186,28-Feb,376,Pit,10,The Forum C,37,2,2783,2162,149.5,0,2
+187,28-Feb,347,Floor,9,The Forum C,37,2,2783,2162,149.5,0,2
+188,28-Feb,310,100A,8,The Forum C,37,2,2783,2162,149.5,0,2
+189,28-Feb,253,100B,6,The Forum C,37,2,2783,2162,149.5,0,2
+190,28-Feb,196,200A,4,The Forum C,37,2,2783,2162,59.5,0,2
+191,28-Feb,189,200B,3,The Forum C,37,2,2783,2162,39.5,0,2
+192,29-Feb,434,Pit,10,American Airlines Arena,9,1,6069,1428,145.5,0,1
+193,29-Feb,1045,Floor,9,American Airlines Arena,9,1,6069,1428,145.5,0,1
+194,29-Feb,643,100A,8,American Airlines Arena,9,1,6069,1428,145.5,0,1
+195,29-Feb,735,100B,6,American Airlines Arena,9,1,6069,1428,95.5,0,1
+196,29-Feb,221,300A,2,American Airlines Arena,9,1,6069,1428,95.5,0,1
+197,29-Feb,219,300B,1,American Airlines Arena,9,1,6069,1428,65.5,0,1
+198,29-Feb,531,Pit,10,Amway Center,10,2,8945,519,146,0,2
+199,29-Feb,552,Floor,9,Amway Center,10,2,8945,519,146,0,2
+200,29-Feb,459,100A,8,Amway Center,10,2,8945,519,146,0,2
+201,29-Feb,597,100B,6,Amway Center,10,2,8945,519,146,0,2
+202,29-Feb,356,SuiteA,7,Amway Center,10,2,8945,519,146,0,2
+203,29-Feb,317,SuiteB,5,Amway Center,10,2,8945,519,146,0,2
+204,29-Feb,234,200A,4,Amway Center,10,2,8945,519,96.5,0,2
+205,29-Feb,211,200B,3,Amway Center,10,2,8945,519,96.5,0,2
+206,29-Feb,349,Pit,10,PNC Arena,12,4,6786,148,125.5,0,4
+207,29-Feb,520,Floor,9,PNC Arena,12,4,6786,148,125.5,0,4
+208,29-Feb,336,100A,8,PNC Arena,12,4,6786,148,125.5,0,4
+209,29-Feb,284,100B,6,PNC Arena,12,4,6786,148,125.5,0,4
+210,29-Feb,345,200A,4,PNC Arena,12,4,6786,148,75.5,0,4
+211,29-Feb,337,200B,3,PNC Arena,12,4,6786,148,75.5,0,4
+212,29-Feb,227,300A,2,PNC Arena,12,4,6786,148,55.5,0,4
+213,29-Feb,165,300B,1,PNC Arena,12,4,6786,148,55.5,0,4
+214,29-Feb,356,Pit,10,Wells Fargo Center,13,6,7918,401,149.25,0,5
+215,29-Feb,299,Floor,9,Wells Fargo Center,13,6,7918,401,128,0,5
+216,29-Feb,293,100A,8,Wells Fargo Center,13,6,7918,401,149.25,0,5
+217,29-Feb,273,100B,6,Wells Fargo Center,13,6,7918,401,149.25,0,5
+218,29-Feb,368,SuiteA,7,Wells Fargo Center,13,6,7918,401,128,0,5
+219,29-Feb,321,SuiteB,5,Wells Fargo Center,13,6,7918,401,128,0,5
+220,29-Feb,202,200A,4,Wells Fargo Center,13,6,7918,401,39.4,0,5
+221,29-Feb,207,200B,3,Wells Fargo Center,13,6,7918,401,39.4,0,5
+222,29-Feb,261,300A,2,Wells Fargo Center,13,6,7918,401,39.4,0,5
+223,29-Feb,400,Pit,10,Madison Square Garden,15,5,2855,256,149.5,0,7
+224,29-Feb,736,Floor,9,Madison Square Garden,15,5,2855,256,149.5,0,7
+225,29-Feb,566,100A,8,Madison Square Garden,15,5,2855,256,149.5,0,7
+226,29-Feb,368,100B,6,Madison Square Garden,15,5,2855,256,149.5,0,7
+227,29-Feb,299,200A,4,Madison Square Garden,15,5,2855,256,99.5,0,7
+228,29-Feb,317,300A,2,Madison Square Garden,15,5,2855,256,39.5,0,7
+229,29-Feb,306,Pit,10,Prudential Center,16,1,1300,2,149.5,0,1
+230,29-Feb,342,Floor,9,Prudential Center,16,1,1300,2,149.5,0,1
+231,29-Feb,297,100A,8,Prudential Center,16,1,1300,2,149.5,0,1
+232,29-Feb,202,100B,6,Prudential Center,16,1,1300,2,149.5,0,1
+233,29-Feb,212,200A,4,Prudential Center,16,1,1300,2,99.5,0,1
+234,29-Feb,169,200B,3,Prudential Center,16,1,1300,2,99.5,0,1
+235,29-Feb,181,300A,2,Prudential Center,16,1,1300,2,39.5,0,1
+236,29-Feb,164,300B,1,Prudential Center,16,1,1300,2,39.5,0,1
+237,29-Feb,325,Pit,10,Capital One Arena,18,3,8070,421,149.5,0,3
+238,29-Feb,460,Floor,9,Capital One Arena,18,3,8070,421,149.5,0,3
+239,29-Feb,354,100A,8,Capital One Arena,18,3,8070,421,149.5,0,3
+240,29-Feb,309,100B,6,Capital One Arena,18,3,8070,421,149.5,0,3
+241,29-Feb,327,SuiteA,7,Capital One Arena,18,3,8070,421,149.5,0,3
+242,29-Feb,391,SuiteB,5,Capital One Arena,18,3,8070,421,149.5,0,3
+243,29-Feb,207,300A,2,Capital One Arena,18,3,8070,421,39.5,0,3
+244,29-Feb,207,300B,1,Capital One Arena,18,3,8070,421,39.5,0,3
+245,29-Feb,415,Pit,10,TD Garden,19,4,7700,1205,39.5,0,4
+246,29-Feb,448,Floor,9,TD Garden,19,4,7700,1205,149.5,0,4
+247,29-Feb,367,100A,8,TD Garden,19,4,7700,1205,145.5,0,4
+248,29-Feb,323,100B,6,TD Garden,19,4,7700,1205,99.5,0,4
+249,29-Feb,414,SuiteA,7,TD Garden,19,4,7700,1205,149.5,0,4
+250,29-Feb,385,SuiteB,5,TD Garden,19,4,7700,1205,149.5,0,4
+251,29-Feb,320,200A,4,TD Garden,19,4,7700,1205,59.5,0,4
+252,29-Feb,317,200B,3,TD Garden,19,4,7700,1205,39.5,0,4
+253,29-Feb,304,Pit,10,United Center,24,2,7659,585,149.5,0,2
+254,29-Feb,458,Floor,9,United Center,24,2,7659,585,149.5,0,2
+255,29-Feb,449,100A,8,United Center,24,2,7659,585,149.5,0,2
+256,29-Feb,262,100B,6,United Center,24,2,7659,585,149.5,0,2
+257,29-Feb,391,200A,4,United Center,24,2,7659,585,99.5,0,2
+258,29-Feb,366,200B,3,United Center,24,2,7659,585,99.5,0,2
+259,29-Feb,265,300A,2,United Center,24,2,7659,585,39.5,0,2
+260,29-Feb,204,300B,1,United Center,24,2,7659,585,39.5,0,2
+261,29-Feb,531,Pit,10,Bridgestone Arena,28,6,7816,916,123,0,5
+262,29-Feb,436,Floor,9,Bridgestone Arena,28,6,7816,916,123,0,5
+263,29-Feb,387,100A,8,Bridgestone Arena,28,6,7816,916,73,0,5
+264,29-Feb,385,100B,6,Bridgestone Arena,28,6,7816,916,73,0,5
+265,29-Feb,427,200A,4,Bridgestone Arena,28,6,7816,916,53.5,0,5
+266,29-Feb,306,200B,3,Bridgestone Arena,28,6,7816,916,53.5,0,5
+267,29-Feb,238,300A,2,Bridgestone Arena,28,6,7816,916,34.4,0,5
+268,29-Feb,220,300B,1,Bridgestone Arena,28,6,7816,916,34.4,0,5
+269,29-Feb,318,Pit,10,The Forum A,34,7,2265,2162,149.5,0,6
+270,29-Feb,450,Floor,9,The Forum A,34,7,2265,2162,149.5,0,6
+271,29-Feb,425,100A,8,The Forum A,34,7,2265,2162,149.5,0,6
+272,29-Feb,309,100B,6,The Forum A,34,7,2265,2162,149.5,0,6
+273,29-Feb,218,200A,4,The Forum A,34,7,2265,2162,59.5,0,6
+274,29-Feb,207,200B,3,The Forum A,34,7,2265,2162,39.5,0,6
+275,29-Feb,347,Pit,10,The Forum B,35,5,2794,2162,149.5,0,7
+276,29-Feb,552,Floor,9,The Forum B,35,5,2794,2162,149.5,0,7
+277,29-Feb,448,100A,8,The Forum B,35,5,2794,2162,149.5,0,7
+278,29-Feb,312,100B,6,The Forum B,35,5,2794,2162,149.5,0,7
+279,29-Feb,274,200A,4,The Forum B,35,5,2794,2162,59.5,0,7
+280,29-Feb,225,200B,3,The Forum B,35,5,2794,2162,39.5,0,7
+281,29-Feb,340,Pit,10,The Forum C,36,2,2789,2162,149.5,0,2
+282,29-Feb,368,Floor,9,The Forum C,36,2,2789,2162,149.5,0,2
+283,29-Feb,338,100A,8,The Forum C,36,2,2789,2162,149.5,0,2
+284,29-Feb,261,100B,6,The Forum C,36,2,2789,2162,149.5,0,2
+285,29-Feb,202,200A,4,The Forum C,36,2,2789,2162,59.5,0,2
+286,29-Feb,198,200B,3,The Forum C,36,2,2789,2162,39.5,0,2
+287,1-Mar,581,Pit,10,American Airlines Arena,8,1,6163,1428,145.5,0,1
+288,1-Mar,1011,Floor,9,American Airlines Arena,8,1,6163,1428,145.5,0,1
+289,1-Mar,666,100A,8,American Airlines Arena,8,1,6163,1428,145.5,0,1
+290,1-Mar,622,100B,6,American Airlines Arena,8,1,6163,1428,95.5,0,1
+291,1-Mar,223,300A,2,American Airlines Arena,8,1,6163,1428,95.5,0,1
+292,1-Mar,220,300B,1,American Airlines Arena,8,1,6163,1428,65.5,0,1
+293,1-Mar,560,Pit,10,Amway Center,9,2,9093,519,146,0,2
+294,1-Mar,534,Floor,9,Amway Center,9,2,9093,519,146,0,2
+295,1-Mar,444,100A,8,Amway Center,9,2,9093,519,146,0,2
+296,1-Mar,577,100B,6,Amway Center,9,2,9093,519,146,0,2
+297,1-Mar,340,SuiteA,7,Amway Center,9,2,9093,519,146,0,2
+298,1-Mar,307,SuiteB,5,Amway Center,9,2,9093,519,146,0,2
+299,1-Mar,222,200A,4,Amway Center,9,2,9093,519,96.5,0,2
+300,1-Mar,237,200B,3,Amway Center,9,2,9093,519,96.5,0,2
+301,1-Mar,373,Pit,10,PNC Arena,11,4,6854,148,125.5,0,4
+302,1-Mar,485,Floor,9,PNC Arena,11,4,6854,148,125.5,0,4
+303,1-Mar,325,100A,8,PNC Arena,11,4,6854,148,125.5,0,4
+304,1-Mar,274,100B,6,PNC Arena,11,4,6854,148,125.5,0,4
+305,1-Mar,333,200A,4,PNC Arena,11,4,6854,148,75.5,0,4
+306,1-Mar,326,200B,3,PNC Arena,11,4,6854,148,75.5,0,4
+307,1-Mar,219,300A,2,PNC Arena,11,4,6854,148,55.5,0,4
+308,1-Mar,186,300B,1,PNC Arena,11,4,6854,148,55.5,0,4
+309,1-Mar,400,Pit,10,Wells Fargo Center,12,6,7990,401,149.25,0,5
+310,1-Mar,357,Floor,9,Wells Fargo Center,12,6,7990,401,128,0,5
+311,1-Mar,298,100A,8,Wells Fargo Center,12,6,7990,401,149.25,0,5
+312,1-Mar,275,100B,6,Wells Fargo Center,12,6,7990,401,149.25,0,5
+313,1-Mar,356,SuiteA,7,Wells Fargo Center,12,6,7990,401,128,0,5
+314,1-Mar,307,SuiteB,5,Wells Fargo Center,12,6,7990,401,128,0,5
+315,1-Mar,215,200A,4,Wells Fargo Center,12,6,7990,401,39.4,0,5
+316,1-Mar,206,200B,3,Wells Fargo Center,12,6,7990,401,39.4,0,5
+317,1-Mar,252,300A,2,Wells Fargo Center,12,6,7990,401,39.4,0,5
+318,1-Mar,359,Pit,10,Madison Square Garden,14,5,2908,256,149.5,0,7
+319,1-Mar,555,Floor,9,Madison Square Garden,14,5,2908,256,149.5,0,7
+320,1-Mar,566,100A,8,Madison Square Garden,14,5,2908,256,149.5,0,7
+321,1-Mar,376,100B,6,Madison Square Garden,14,5,2908,256,149.5,0,7
+322,1-Mar,289,200A,4,Madison Square Garden,14,5,2908,256,99.5,0,7
+323,1-Mar,307,300A,2,Madison Square Garden,14,5,2908,256,39.5,0,7
+324,1-Mar,284,Pit,10,Prudential Center,15,1,1348,2,149.5,0,1
+325,1-Mar,331,Floor,9,Prudential Center,15,1,1348,2,149.5,0,1
+326,1-Mar,287,100A,8,Prudential Center,15,1,1348,2,149.5,0,1
+327,1-Mar,249,100B,6,Prudential Center,15,1,1348,2,149.5,0,1
+328,1-Mar,245,200A,4,Prudential Center,15,1,1348,2,99.5,0,1
+329,1-Mar,192,200B,3,Prudential Center,15,1,1348,2,99.5,0,1
+330,1-Mar,191,300A,2,Prudential Center,15,1,1348,2,39.5,0,1
+331,1-Mar,159,300B,1,Prudential Center,15,1,1348,2,39.5,0,1
+332,1-Mar,277,Pit,10,Capital One Arena,17,3,8133,421,149.5,0,3
+333,1-Mar,400,Floor,9,Capital One Arena,17,3,8133,421,149.5,0,3
+334,1-Mar,354,100A,8,Capital One Arena,17,3,8133,421,149.5,0,3
+335,1-Mar,310,100B,6,Capital One Arena,17,3,8133,421,149.5,0,3
+336,1-Mar,308,SuiteA,7,Capital One Arena,17,3,8133,421,149.5,0,3
+337,1-Mar,342,SuiteB,5,Capital One Arena,17,3,8133,421,149.5,0,3
+338,1-Mar,330,200A,4,Capital One Arena,17,3,8133,421,99.5,0,3
+339,1-Mar,318,200B,3,Capital One Arena,17,3,8133,421,99.5,0,3
+340,1-Mar,198,300A,2,Capital One Arena,17,3,8133,421,39.5,0,3
+341,1-Mar,210,300B,1,Capital One Arena,17,3,8133,421,39.5,0,3
+342,1-Mar,355,Pit,10,TD Garden,18,4,7828,1205,149.5,0,4
+343,1-Mar,433,Floor,9,TD Garden,18,4,7828,1205,149.5,0,4
+344,1-Mar,355,100A,8,TD Garden,18,4,7828,1205,145.5,0,4
+345,1-Mar,313,100B,6,TD Garden,18,4,7828,1205,99.5,0,4
+346,1-Mar,400,SuiteA,7,TD Garden,18,4,7828,1205,149.5,0,4
+347,1-Mar,372,SuiteB,5,TD Garden,18,4,7828,1205,149.5,0,4
+348,1-Mar,310,200A,4,TD Garden,18,4,7828,1205,59.5,0,4
+349,1-Mar,307,200B,3,TD Garden,18,4,7828,1205,39.5,0,4
+350,1-Mar,315,Pit,10,United Center,23,2,7753,585,149.5,0,2
+351,1-Mar,443,Floor,9,United Center,23,2,7753,585,149.5,0,2
+352,1-Mar,435,100A,8,United Center,23,2,7753,585,149.5,0,2
+353,1-Mar,395,100B,6,United Center,23,2,7753,585,149.5,0,2
+354,1-Mar,355,200A,4,United Center,23,2,7753,585,99.5,0,2
+355,1-Mar,338,200B,3,United Center,23,2,7753,585,99.5,0,2
+356,1-Mar,249,300A,2,United Center,23,2,7753,585,39.5,0,2
+357,1-Mar,262,300B,1,United Center,23,2,7753,585,39.5,0,2
+358,1-Mar,481,Pit,10,Bridgestone Arena,27,6,7947,916,123,0,5
+359,1-Mar,421,Floor,9,Bridgestone Arena,27,6,7947,916,123,0,5
+360,1-Mar,418,100A,8,Bridgestone Arena,27,6,7947,916,73,0,5
+361,1-Mar,372,100B,6,Bridgestone Arena,27,6,7947,916,73,0,5
+362,1-Mar,413,200A,4,Bridgestone Arena,27,6,7947,916,53.5,0,5
+363,1-Mar,296,200B,3,Bridgestone Arena,27,6,7947,916,53.5,0,5
+364,1-Mar,230,300A,2,Bridgestone Arena,27,6,7947,916,34.4,0,5
+365,1-Mar,213,300B,1,Bridgestone Arena,27,6,7947,916,34.4,0,5
+366,1-Mar,317,Pit,10,The Forum A,33,7,2318,2162,149.5,0,6
+367,1-Mar,436,Floor,9,The Forum A,33,7,2318,2162,149.5,0,6
+368,1-Mar,518,100A,8,The Forum A,33,7,2318,2162,149.5,0,6
+369,1-Mar,299,100B,6,The Forum A,33,7,2318,2162,149.5,0,6
+370,1-Mar,218,200A,4,The Forum A,33,7,2318,2162,59.5,0,6
+371,1-Mar,222,200B,3,The Forum A,33,7,2318,2162,39.5,0,6
+372,1-Mar,336,Pit,10,The Forum B,34,5,2529,2162,149.5,0,7
+373,1-Mar,579,Floor,9,The Forum B,34,5,2529,2162,149.5,0,7
+374,1-Mar,473,100A,8,The Forum B,34,5,2529,2162,149.5,0,7
+375,1-Mar,302,100B,6,The Forum B,34,5,2529,2162,149.5,0,7
+376,1-Mar,265,200A,4,The Forum B,34,5,2529,2162,59.5,0,7
+377,1-Mar,218,200B,3,The Forum B,34,5,2529,2162,39.5,0,7
+378,1-Mar,328,Pit,10,The Forum C,35,2,2811,2162,149.5,0,2
+379,1-Mar,421,Floor,9,The Forum C,35,2,2811,2162,149.5,0,2
+380,1-Mar,327,100A,8,The Forum C,35,2,2811,2162,149.5,0,2
+381,1-Mar,302,100B,6,The Forum C,35,2,2811,2162,149.5,0,2
+382,1-Mar,235,200A,4,The Forum C,35,2,2811,2162,59.5,0,2
+383,1-Mar,224,200B,3,The Forum C,35,2,2811,2162,39.5,0,2
+384,2-Mar,438,Pit,10,American Airlines Arena,7,1,6197,1428,145.5,0,1
+385,2-Mar,479,100A,8,American Airlines Arena,7,1,6197,1428,145.5,0,1
+386,2-Mar,588,100B,6,American Airlines Arena,7,1,6197,1428,95.5,0,1
+387,2-Mar,239,300A,2,American Airlines Arena,7,1,6197,1428,95.5,0,1
+388,2-Mar,222,300B,1,American Airlines Arena,7,1,6197,1428,65.5,0,1
+389,2-Mar,407,Pit,10,Amway Center,8,2,9065,519,146,0,2
+390,2-Mar,444,100A,8,Amway Center,8,2,9065,519,146,0,2
+391,2-Mar,539,100B,6,Amway Center,8,2,9065,519,146,0,2
+392,2-Mar,326,SuiteA,7,Amway Center,8,2,9065,519,146,0,2
+393,2-Mar,307,SuiteB,5,Amway Center,8,2,9065,519,146,0,2
+394,2-Mar,222,200A,4,Amway Center,8,2,9065,519,96.5,0,2
+395,2-Mar,229,200B,3,Amway Center,8,2,9065,519,96.5,0,2
+396,2-Mar,467,Pit,10,PNC Arena,10,4,6887,148,125.5,0,4
+397,2-Mar,503,Floor,9,PNC Arena,10,4,6887,148,125.5,0,4
+398,2-Mar,325,100A,8,PNC Arena,10,4,6887,148,125.5,0,4
+399,2-Mar,274,100B,6,PNC Arena,10,4,6887,148,125.5,0,4
+400,2-Mar,333,200A,4,PNC Arena,10,4,6887,148,75.5,0,4
+401,2-Mar,331,200B,3,PNC Arena,10,4,6887,148,75.5,0,4
+402,2-Mar,236,300A,2,PNC Arena,10,4,6887,148,55.5,0,4
+403,2-Mar,186,300B,1,PNC Arena,10,4,6887,148,55.5,0,4
+404,2-Mar,292,Pit,10,Wells Fargo Center,11,6,8019,401,149.25,0,5
+405,2-Mar,284,100A,8,Wells Fargo Center,11,6,8019,401,149.25,0,5
+406,2-Mar,270,100B,6,Wells Fargo Center,11,6,8019,401,149.25,0,5
+407,2-Mar,260,SuiteA,7,Wells Fargo Center,11,6,8019,401,128,0,5
+408,2-Mar,290,SuiteB,5,Wells Fargo Center,11,6,8019,401,128,0,5
+409,2-Mar,212,200A,4,Wells Fargo Center,11,6,8019,401,39.4,0,5
+410,2-Mar,206,200B,3,Wells Fargo Center,11,6,8019,401,39.4,0,5
+411,2-Mar,279,300A,2,Wells Fargo Center,11,6,8019,401,39.4,0,5
+412,2-Mar,532,Pit,10,Madison Square Garden,13,5,2916,256,149.5,0,7
+413,2-Mar,555,Floor,9,Madison Square Garden,13,5,2916,256,149.5,0,7
+414,2-Mar,590,100A,8,Madison Square Garden,13,5,2916,256,149.5,0,7
+415,2-Mar,356,100B,6,Madison Square Garden,13,5,2916,256,149.5,0,7
+416,2-Mar,289,200A,4,Madison Square Garden,13,5,2916,256,99.5,0,7
+417,2-Mar,307,300A,2,Madison Square Garden,13,5,2916,256,39.5,0,7
+418,2-Mar,284,Pit,10,Prudential Center,14,1,1364,2,149.5,0,1
+419,2-Mar,331,Floor,9,Prudential Center,14,1,1364,2,149.5,0,1
+420,2-Mar,307,100A,8,Prudential Center,14,1,1364,2,149.5,0,1
+421,2-Mar,255,100B,6,Prudential Center,14,1,1364,2,149.5,0,1
+422,2-Mar,245,200A,4,Prudential Center,14,1,1364,2,99.5,0,1
+423,2-Mar,192,200B,3,Prudential Center,14,1,1364,2,99.5,0,1
+424,2-Mar,185,300A,2,Prudential Center,14,1,1364,2,39.5,0,1
+425,2-Mar,159,300B,1,Prudential Center,14,1,1364,2,39.5,0,1
+426,2-Mar,303,Pit,10,Capital One Arena,16,3,8151,421,149.5,0,3
+427,2-Mar,501,Floor,9,Capital One Arena,16,3,8151,421,149.5,0,3
+428,2-Mar,354,100A,8,Capital One Arena,16,3,8151,421,149.5,0,3
+429,2-Mar,310,100B,6,Capital One Arena,16,3,8151,421,149.5,0,3
+430,2-Mar,308,SuiteA,7,Capital One Arena,16,3,8151,421,149.5,0,3
+431,2-Mar,342,SuiteB,5,Capital One Arena,16,3,8151,421,149.5,0,3
+432,2-Mar,330,200A,4,Capital One Arena,16,3,8151,421,99.5,0,3
+433,2-Mar,318,200B,3,Capital One Arena,16,3,8151,421,99.5,0,3
+434,2-Mar,200,300A,2,Capital One Arena,16,3,8151,421,39.5,0,3
+435,2-Mar,209,300B,1,Capital One Arena,16,3,8151,421,39.5,0,3
+436,2-Mar,420,Pit,10,TD Garden,17,4,7881,1205,149.5,0,4
+437,2-Mar,433,Floor,9,TD Garden,17,4,7881,1205,149.5,0,4
+438,2-Mar,359,100A,8,TD Garden,17,4,7881,1205,145.5,0,4
+439,2-Mar,311,100B,6,TD Garden,17,4,7881,1205,99.5,0,4
+440,2-Mar,400,SuiteA,7,TD Garden,17,4,7881,1205,149.5,0,4
+441,2-Mar,372,SuiteB,5,TD Garden,17,4,7881,1205,149.5,0,4
+442,2-Mar,301,200A,4,TD Garden,17,4,7881,1205,59.5,0,4
+443,2-Mar,307,200B,3,TD Garden,17,4,7881,1205,39.5,0,4
+444,2-Mar,438,Pit,10,United Center,22,2,7817,585,149.5,0,2
+445,2-Mar,447,100A,8,United Center,22,2,7817,585,149.5,0,2
+446,2-Mar,395,100B,6,United Center,22,2,7817,585,149.5,0,2
+447,2-Mar,355,200A,4,United Center,22,2,7817,585,99.5,0,2
+448,2-Mar,430,200B,3,United Center,22,2,7817,585,99.5,0,2
+449,2-Mar,249,300A,2,United Center,22,2,7817,585,39.5,0,2
+450,2-Mar,256,300B,1,United Center,22,2,7817,585,39.5,0,2
+451,2-Mar,469,Pit,10,Bridgestone Arena,26,6,7972,916,123,0,5
+452,2-Mar,421,Floor,9,Bridgestone Arena,26,6,7972,916,123,0,5
+453,2-Mar,467,100A,8,Bridgestone Arena,26,6,7972,916,73,0,5
+454,2-Mar,372,100B,6,Bridgestone Arena,26,6,7972,916,73,0,5
+455,2-Mar,420,200A,4,Bridgestone Arena,26,6,7972,916,53.5,0,5
+456,2-Mar,296,200B,3,Bridgestone Arena,26,6,7972,916,53.5,0,5
+457,2-Mar,230,300A,2,Bridgestone Arena,26,6,7972,916,34.4,0,5
+458,2-Mar,213,300B,1,Bridgestone Arena,26,6,7972,916,34.4,0,5
+459,2-Mar,328,Pit,10,The Forum A,32,7,2348,2162,149.5,0,6
+460,2-Mar,436,Floor,9,The Forum A,32,7,2348,2162,149.5,0,6
+461,2-Mar,518,100A,8,The Forum A,32,7,2348,2162,149.5,0,6
+462,2-Mar,299,100B,6,The Forum A,32,7,2348,2162,149.5,0,6
+463,2-Mar,218,200A,4,The Forum A,32,7,2348,2162,59.5,0,6
+464,2-Mar,222,200B,3,The Forum A,32,7,2348,2162,39.5,0,6
+465,2-Mar,336,Pit,10,The Forum B,33,5,2549,2162,149.5,0,7
+466,2-Mar,579,Floor,9,The Forum B,33,5,2549,2162,149.5,0,7
+467,2-Mar,463,100A,8,The Forum B,33,5,2549,2162,149.5,0,7
+468,2-Mar,302,100B,6,The Forum B,33,5,2549,2162,149.5,0,7
+469,2-Mar,265,200A,4,The Forum B,33,5,2549,2162,59.5,0,7
+470,2-Mar,218,200B,3,The Forum B,33,5,2549,2162,39.5,0,7
+471,2-Mar,336,Pit,10,The Forum C,34,2,2817,2162,149.5,0,2
+472,2-Mar,382,Floor,9,The Forum C,34,2,2817,2162,149.5,0,2
+473,2-Mar,327,100A,8,The Forum C,34,2,2817,2162,149.5,0,2
+474,2-Mar,302,100B,6,The Forum C,34,2,2817,2162,149.5,0,2
+475,2-Mar,235,200A,4,The Forum C,34,2,2817,2162,59.5,0,2
+476,2-Mar,229,200B,3,The Forum C,34,2,2817,2162,39.5,0,2
+477,3-Mar,438,Pit,10,American Airlines Arena,6,1,6223,1428,145.5,1,1
+478,3-Mar,666,100A,8,American Airlines Arena,6,1,6223,1428,145.5,1,1
+479,3-Mar,588,100B,6,American Airlines Arena,6,1,6223,1428,95.5,1,1
+480,3-Mar,239,300A,2,American Airlines Arena,6,1,6223,1428,95.5,1,1
+481,3-Mar,206,300B,1,American Airlines Arena,6,1,6223,1428,65.5,1,1
+482,3-Mar,514,Pit,10,Amway Center,7,2,9110,519,146,1,2
+483,3-Mar,579,100A,8,Amway Center,7,2,9110,519,146,1,2
+484,3-Mar,389,100B,6,Amway Center,7,2,9110,519,146,1,2
+485,3-Mar,334,SuiteA,7,Amway Center,7,2,9110,519,146,1,2
+486,3-Mar,283,SuiteB,5,Amway Center,7,2,9110,519,146,1,2
+487,3-Mar,222,200A,4,Amway Center,7,2,9110,519,96.5,1,2
+488,3-Mar,229,200B,3,Amway Center,7,2,9110,519,96.5,1,2
+489,3-Mar,407,Pit,10,PNC Arena,9,4,6920,148,125.5,1,4
+490,3-Mar,326,100A,8,PNC Arena,9,4,6920,148,125.5,1,4
+491,3-Mar,300,100B,6,PNC Arena,9,4,6920,148,125.5,1,4
+492,3-Mar,333,200A,4,PNC Arena,9,4,6920,148,75.5,1,4
+493,3-Mar,340,200B,3,PNC Arena,9,4,6920,148,75.5,1,4
+494,3-Mar,236,300A,2,PNC Arena,9,4,6920,148,55.5,1,4
+495,3-Mar,231,300B,1,PNC Arena,9,4,6920,148,55.5,1,4
+496,3-Mar,283,Pit,10,Wells Fargo Center,10,6,8053,401,149.25,1,5
+497,3-Mar,303,100A,8,Wells Fargo Center,10,6,8053,401,149.25,1,5
+498,3-Mar,254,100B,6,Wells Fargo Center,10,6,8053,401,149.25,1,5
+499,3-Mar,355,SuiteA,7,Wells Fargo Center,10,6,8053,401,128,1,5
+500,3-Mar,260,SuiteB,5,Wells Fargo Center,10,6,8053,401,128,1,5
+501,3-Mar,212,200A,4,Wells Fargo Center,10,6,8053,401,39.4,1,5
+502,3-Mar,206,200B,3,Wells Fargo Center,10,6,8053,401,39.4,1,5
+503,3-Mar,252,300A,2,Wells Fargo Center,10,6,8053,401,39.4,1,5
+504,3-Mar,444,Pit,10,Madison Square Garden,12,5,2929,256,149.5,1,7
+505,3-Mar,590,100A,8,Madison Square Garden,12,5,2929,256,149.5,1,7
+506,3-Mar,311,100B,6,Madison Square Garden,12,5,2929,256,149.5,1,7
+507,3-Mar,289,200A,4,Madison Square Garden,12,5,2929,256,99.5,1,7
+508,3-Mar,307,300A,2,Madison Square Garden,12,5,2929,256,39.5,1,7
+509,3-Mar,310,Pit,10,Prudential Center,13,1,1389,2,149.5,1,1
+510,3-Mar,297,100A,8,Prudential Center,13,1,1389,2,149.5,1,1
+511,3-Mar,195,100B,6,Prudential Center,13,1,1389,2,149.5,1,1
+512,3-Mar,245,200A,4,Prudential Center,13,1,1389,2,99.5,1,1
+513,3-Mar,164,200B,3,Prudential Center,13,1,1389,2,99.5,1,1
+514,3-Mar,165,300A,2,Prudential Center,13,1,1389,2,39.5,1,1
+515,3-Mar,159,300B,1,Prudential Center,13,1,1389,2,39.5,1,1
+516,3-Mar,312,Pit,10,Capital One Arena,15,3,8177,421,149.5,1,3
+517,3-Mar,354,100A,8,Capital One Arena,15,3,8177,421,149.5,1,3
+518,3-Mar,310,100B,6,Capital One Arena,15,3,8177,421,149.5,1,3
+519,3-Mar,308,SuiteA,7,Capital One Arena,15,3,8177,421,149.5,1,3
+520,3-Mar,302,SuiteB,5,Capital One Arena,15,3,8177,421,149.5,1,3
+521,3-Mar,330,200A,4,Capital One Arena,15,3,8177,421,99.5,1,3
+522,3-Mar,318,200B,3,Capital One Arena,15,3,8177,421,99.5,1,3
+523,3-Mar,199,300A,2,Capital One Arena,15,3,8177,421,39.5,1,3
+524,3-Mar,200,300B,1,Capital One Arena,15,3,8177,421,39.5,1,3
+525,3-Mar,352,Pit,10,TD Garden,16,4,7944,1205,145.5,1,4
+526,3-Mar,443,100A,8,TD Garden,16,4,7944,1205,145.5,1,4
+527,3-Mar,313,100B,6,TD Garden,16,4,7944,1205,99.5,1,4
+528,3-Mar,400,SuiteA,7,TD Garden,16,4,7944,1205,149.5,1,4
+529,3-Mar,301,200A,4,TD Garden,16,4,7944,1205,149.5,1,4
+530,3-Mar,306,200B,3,TD Garden,16,4,7944,1205,59.5,1,4
+531,3-Mar,311,Pit,10,United Center,21,2,7908,585,149.5,1,2
+532,3-Mar,447,100A,8,United Center,21,2,7908,585,149.5,1,2
+533,3-Mar,253,100B,6,United Center,21,2,7908,585,149.5,1,2
+534,3-Mar,400,200A,4,United Center,21,2,7908,585,99.5,1,2
+535,3-Mar,427,200B,3,United Center,21,2,7908,585,99.5,1,2
+536,3-Mar,249,300A,2,United Center,21,2,7908,585,39.5,1,2
+537,3-Mar,256,300B,1,United Center,21,2,7908,585,39.5,1,2
+538,3-Mar,382,Pit,10,Bridgestone Arena,25,6,8021,916,123,1,5
+539,3-Mar,408,100A,8,Bridgestone Arena,25,6,8021,916,73,1,5
+540,3-Mar,328,100B,6,Bridgestone Arena,25,6,8021,916,73,1,5
+541,3-Mar,420,200A,4,Bridgestone Arena,25,6,8021,916,53.5,1,5
+542,3-Mar,296,200B,3,Bridgestone Arena,25,6,8021,916,53.5,1,5
+543,3-Mar,226,300A,2,Bridgestone Arena,25,6,8021,916,34.4,1,5
+544,3-Mar,213,300B,1,Bridgestone Arena,25,6,8021,916,34.4,1,5
+545,3-Mar,340,Pit,10,The Forum A,31,7,2935,2162,149.5,1,6
+546,3-Mar,518,100A,8,The Forum A,31,7,2935,2162,149.5,1,6
+547,3-Mar,302,100B,6,The Forum A,31,7,2935,2162,149.5,1,6
+548,3-Mar,218,200A,4,The Forum A,31,7,2935,2162,59.5,1,6
+549,3-Mar,216,200B,3,The Forum A,31,7,2935,2162,39.5,1,6
+550,3-Mar,312,Pit,10,The Forum B,32,5,2582,2162,149.5,1,7
+551,3-Mar,524,100A,8,The Forum B,32,5,2582,2162,149.5,1,7
+552,3-Mar,302,100B,6,The Forum B,32,5,2582,2162,149.5,1,7
+553,3-Mar,265,200A,4,The Forum B,32,5,2582,2162,59.5,1,7
+554,3-Mar,244,200B,3,The Forum B,32,5,2582,2162,39.5,1,7
+555,3-Mar,303,Pit,10,The Forum C,33,2,2834,2162,149.5,1,2
+556,3-Mar,528,100A,8,The Forum C,33,2,2834,2162,149.5,1,2
+557,3-Mar,335,100B,6,The Forum C,33,2,2834,2162,149.5,1,2
+558,3-Mar,226,200A,4,The Forum C,33,2,2834,2162,59.5,1,2
+559,3-Mar,226,200B,3,The Forum C,33,2,2834,2162,39.5,1,2
+560,4-Mar,438,Pit,10,American Airlines Arena,5,1,6229,1428,145.5,2,1
+561,4-Mar,523,100A,8,American Airlines Arena,5,1,6229,1428,145.5,2,1
+562,4-Mar,432,100B,6,American Airlines Arena,5,1,6229,1428,95.5,2,1
+563,4-Mar,225,300A,2,American Airlines Arena,5,1,6229,1428,95.5,2,1
+564,4-Mar,250,300B,1,American Airlines Arena,5,1,6229,1428,65.5,2,1
+565,4-Mar,404,Pit,10,Amway Center,6,2,9101,519,146,2,2
+566,4-Mar,371,100A,8,Amway Center,6,2,9101,519,146,2,2
+567,4-Mar,389,100B,6,Amway Center,6,2,9101,519,146,2,2
+568,4-Mar,354,SuiteA,7,Amway Center,6,2,9101,519,146,2,2
+569,4-Mar,275,SuiteB,5,Amway Center,6,2,9101,519,146,2,2
+570,4-Mar,234,200A,4,Amway Center,6,2,9101,519,96.5,2,2
+571,4-Mar,229,200B,3,Amway Center,6,2,9101,519,96.5,2,2
+572,4-Mar,342,Pit,10,PNC Arena,8,4,6965,148,125.5,2,4
+573,4-Mar,348,100A,8,PNC Arena,8,4,6965,148,125.5,2,4
+574,4-Mar,260,100B,6,PNC Arena,8,4,6965,148,125.5,2,4
+575,4-Mar,333,200A,4,PNC Arena,8,4,6965,148,75.5,2,4
+576,4-Mar,340,200B,3,PNC Arena,8,4,6965,148,75.5,2,4
+577,4-Mar,219,300A,2,PNC Arena,8,4,6965,148,55.5,2,4
+578,4-Mar,220,300B,1,PNC Arena,8,4,6965,148,55.5,2,4
+579,4-Mar,292,Pit,10,Wells Fargo Center,9,6,8095,401,149.25,2,5
+580,4-Mar,303,100A,8,Wells Fargo Center,9,6,8095,401,149.25,2,5
+581,4-Mar,266,100B,6,Wells Fargo Center,9,6,8095,401,149.25,2,5
+582,4-Mar,356,SuiteA,7,Wells Fargo Center,9,6,8095,401,128,2,5
+583,4-Mar,262,SuiteB,5,Wells Fargo Center,9,6,8095,401,128,2,5
+584,4-Mar,212,200A,4,Wells Fargo Center,9,6,8095,401,39.4,2,5
+585,4-Mar,206,200B,3,Wells Fargo Center,9,6,8095,401,39.4,2,5
+586,4-Mar,252,300A,2,Wells Fargo Center,9,6,8095,401,39.4,2,5
+587,4-Mar,444,Pit,10,Madison Square Garden,11,5,2940,256,149.5,2,7
+588,4-Mar,469,Floor,9,Madison Square Garden,11,5,2941,256,149.5,2,7
+589,4-Mar,590,100A,8,Madison Square Garden,11,5,2940,256,149.5,2,7
+590,4-Mar,356,100B,6,Madison Square Garden,11,5,2940,256,149.5,2,7
+591,4-Mar,289,200A,4,Madison Square Garden,11,5,2940,256,99.5,2,7
+592,4-Mar,311,300A,2,Madison Square Garden,11,5,2940,256,39.5,2,7
+593,4-Mar,273,Pit,10,Prudential Center,12,1,1419,2,149.5,2,1
+594,4-Mar,269,100A,8,Prudential Center,12,1,1419,2,149.5,2,1
+595,4-Mar,195,100B,6,Prudential Center,12,1,1419,2,149.5,2,1
+596,4-Mar,222,SuiteA,7,Prudential Center,12,1,1420,2,149.5,2,1
+597,4-Mar,245,200A,4,Prudential Center,12,1,1419,2,99.5,2,1
+598,4-Mar,164,200B,3,Prudential Center,12,1,1419,2,99.5,2,1
+599,4-Mar,164,300A,2,Prudential Center,12,1,1419,2,39.5,2,1
+600,4-Mar,159,300B,1,Prudential Center,12,1,1419,2,39.5,2,1
+601,4-Mar,324,Pit,10,Capital One Arena,14,3,8216,421,149.5,2,3
+602,4-Mar,354,100A,8,Capital One Arena,14,3,8216,421,149.5,2,3
+603,4-Mar,310,100B,6,Capital One Arena,14,3,8216,421,149.5,2,3
+604,4-Mar,308,SuiteA,7,Capital One Arena,14,3,8216,421,149.5,2,3
+605,4-Mar,302,SuiteB,5,Capital One Arena,14,3,8216,421,149.5,2,3
+606,4-Mar,330,200A,4,Capital One Arena,14,3,8216,421,99.5,2,3
+607,4-Mar,318,200B,3,Capital One Arena,14,3,8216,421,99.5,2,3
+608,4-Mar,193,300A,2,Capital One Arena,14,3,8216,421,39.5,2,3
+609,4-Mar,200,300B,1,Capital One Arena,14,3,8216,421,39.5,2,3
+610,4-Mar,302,Pit,10,TD Garden,15,4,7984,1205,149.5,2,4
+611,4-Mar,443,100A,8,TD Garden,15,4,7984,1205,145.5,2,4
+612,4-Mar,313,100B,6,TD Garden,15,4,7984,1205,99.5,2,4
+613,4-Mar,400,SuiteA,7,TD Garden,15,4,7984,1205,149.5,2,4
+614,4-Mar,301,200A,4,TD Garden,15,4,7984,1205,149.5,2,4
+615,4-Mar,306,200B,3,TD Garden,15,4,7984,1205,59.5,2,4
+616,4-Mar,309,Pit,10,United Center,20,2,7987,585,149.5,2,2
+617,4-Mar,430,100A,8,United Center,20,2,7987,585,149.5,2,2
+618,4-Mar,253,100B,6,United Center,20,2,7987,585,149.5,2,2
+619,4-Mar,400,200A,4,United Center,20,2,7987,585,99.5,2,2
+620,4-Mar,460,200B,3,United Center,20,2,7987,585,99.5,2,2
+621,4-Mar,249,300A,2,United Center,20,2,7987,585,39.5,2,2
+622,4-Mar,256,300B,1,United Center,20,2,7987,585,39.5,2,2
+623,4-Mar,367,Pit,10,Bridgestone Arena,24,6,8057,916,123,2,5
+624,4-Mar,408,100A,8,Bridgestone Arena,24,6,8057,916,73,2,5
+625,4-Mar,328,100B,6,Bridgestone Arena,24,6,8057,916,73,2,5
+626,4-Mar,420,200A,4,Bridgestone Arena,24,6,8057,916,53.5,2,5
+627,4-Mar,286,200B,3,Bridgestone Arena,24,6,8057,916,53.5,2,5
+628,4-Mar,226,300A,2,Bridgestone Arena,24,6,8057,916,34.4,2,5
+629,4-Mar,213,300B,1,Bridgestone Arena,24,6,8057,916,34.4,2,5
+630,4-Mar,315,Pit,10,The Forum A,30,7,2423,2162,149.5,2,6
+631,4-Mar,518,100A,8,The Forum A,30,7,2423,2162,149.5,2,6
+632,4-Mar,347,100B,6,The Forum A,30,7,2423,2162,149.5,2,6
+633,4-Mar,216,200A,4,The Forum A,30,7,2423,2162,59.5,2,6
+634,4-Mar,230,200B,3,The Forum A,30,7,2423,2162,39.5,2,6
+635,4-Mar,314,Pit,10,The Forum B,31,5,2621,2162,149.5,2,7
+636,4-Mar,524,100A,8,The Forum B,31,5,2621,2162,149.5,2,7
+637,4-Mar,302,100B,6,The Forum B,31,5,2621,2162,149.5,2,7
+638,4-Mar,265,200A,4,The Forum B,31,5,2621,2162,59.5,2,7
+639,4-Mar,244,200B,3,The Forum B,31,5,2621,2162,39.5,2,7
+640,4-Mar,303,Pit,10,The Forum C,32,2,2847,2162,149.5,2,2
+641,4-Mar,545,100A,8,The Forum C,32,2,2847,2162,149.5,2,2
+642,4-Mar,335,100B,6,The Forum C,32,2,2847,2162,149.5,2,2
+643,4-Mar,226,200A,4,The Forum C,32,2,2847,2162,59.5,2,2
+644,4-Mar,226,200B,3,The Forum C,32,2,2847,2162,39.5,2,2
+645,5-Mar,326,Pit,10,American Airlines Arena,4,1,6342,1428,145.5,2,1
+646,5-Mar,179,100A,8,American Airlines Arena,4,1,6342,1428,145.5,2,1
+647,5-Mar,432,100B,6,American Airlines Arena,4,1,6342,1428,95.5,2,1
+648,5-Mar,129,300A,2,American Airlines Arena,4,1,6342,1428,95.5,2,1
+649,5-Mar,210,300B,1,American Airlines Arena,4,1,6342,1428,65.5,2,1
+650,5-Mar,444,Pit,10,Amway Center,5,2,9157,519,146,2,2
+651,5-Mar,579,100A,8,Amway Center,5,2,9157,519,146,2,2
+652,5-Mar,181,100B,6,Amway Center,5,2,9157,519,146,2,2
+653,5-Mar,334,SuiteA,7,Amway Center,5,2,9157,519,146,2,2
+654,5-Mar,209,SuiteB,5,Amway Center,5,2,9157,519,146,2,2
+655,5-Mar,225,200A,4,Amway Center,5,2,9157,519,96.5,2,2
+656,5-Mar,110,200B,3,Amway Center,5,2,9157,519,96.5,2,2
+657,5-Mar,342,Pit,10,PNC Arena,7,4,7103,148,125.5,2,4
+658,5-Mar,348,100A,8,PNC Arena,7,4,7103,148,125.5,2,4
+659,5-Mar,260,100B,6,PNC Arena,7,4,7103,148,125.5,2,4
+660,5-Mar,333,200A,4,PNC Arena,7,4,7103,148,75.5,2,4
+661,5-Mar,340,200B,3,PNC Arena,7,4,7103,148,75.5,2,4
+662,5-Mar,219,300A,2,PNC Arena,7,4,7103,148,55.5,2,4
+663,5-Mar,210,300B,1,PNC Arena,7,4,7103,148,55.5,2,4
+664,5-Mar,271,Pit,10,Wells Fargo Center,8,6,8319,401,149.25,2,5
+665,5-Mar,308,100A,8,Wells Fargo Center,8,6,8319,401,149.25,2,5
+666,5-Mar,266,100B,6,Wells Fargo Center,8,6,8319,401,149.25,2,5
+667,5-Mar,356,SuiteA,7,Wells Fargo Center,8,6,8319,401,128,2,5
+668,5-Mar,260,SuiteB,5,Wells Fargo Center,8,6,8319,401,128,2,5
+669,5-Mar,212,200A,4,Wells Fargo Center,8,6,8319,401,39.4,2,5
+670,5-Mar,206,200B,3,Wells Fargo Center,8,6,8319,401,39.4,2,5
+671,5-Mar,252,300A,2,Wells Fargo Center,8,6,8319,401,39.4,2,5
+672,5-Mar,399,Pit,10,Madison Square Garden,10,5,2970,256,149.5,2,7
+673,5-Mar,448,Floor,9,Madison Square Garden,10,5,2970,256,149.5,2,7
+674,5-Mar,590,100A,8,Madison Square Garden,10,5,2970,256,149.5,2,7
+675,5-Mar,356,100B,6,Madison Square Garden,10,5,2970,256,149.5,2,7
+676,5-Mar,289,200A,4,Madison Square Garden,10,5,2970,256,99.5,2,7
+677,5-Mar,333,300A,2,Madison Square Garden,10,5,2970,256,39.5,2,7
+678,5-Mar,247,Pit,10,Prudential Center,11,1,1428,2,149.5,2,1
+679,5-Mar,309,100A,8,Prudential Center,11,1,1428,2,149.5,2,1
+680,5-Mar,195,100B,6,Prudential Center,11,1,1428,2,149.5,2,1
+681,5-Mar,222,SuiteA,7,Prudential Center,11,1,1428,2,149.5,2,1
+682,5-Mar,245,200A,4,Prudential Center,11,1,1428,2,99.5,2,1
+683,5-Mar,164,200B,3,Prudential Center,11,1,1428,2,99.5,2,1
+684,5-Mar,159,300A,2,Prudential Center,11,1,1428,2,39.5,2,1
+685,5-Mar,160,300B,1,Prudential Center,11,1,1428,2,39.5,2,1
+686,5-Mar,271,Pit,10,Capital One Arena,13,3,8248,421,149.5,2,3
+687,5-Mar,354,100A,8,Capital One Arena,13,3,8248,421,149.5,2,3
+688,5-Mar,292,100B,6,Capital One Arena,13,3,8248,421,149.5,2,3
+689,5-Mar,308,SuiteA,7,Capital One Arena,13,3,8248,421,149.5,2,3
+690,5-Mar,302,SuiteB,5,Capital One Arena,13,3,8248,421,149.5,2,3
+691,5-Mar,334,200A,4,Capital One Arena,13,3,8248,421,99.5,2,3
+692,5-Mar,313,200B,3,Capital One Arena,13,3,8248,421,99.5,2,3
+693,5-Mar,200,300A,2,Capital One Arena,13,3,8248,421,39.5,2,3
+694,5-Mar,195,300B,1,Capital One Arena,13,3,8248,421,39.5,2,3
+695,5-Mar,279,Pit,10,TD Garden,14,4,8056,1205,149.5,2,4
+696,5-Mar,443,100A,8,TD Garden,14,4,8056,1205,145.5,2,4
+697,5-Mar,313,100B,6,TD Garden,14,4,8056,1205,99.5,2,4
+698,5-Mar,422,SuiteA,7,TD Garden,14,4,8056,1205,149.5,2,4
+699,5-Mar,297,200A,4,TD Garden,14,4,8056,1205,149.5,2,4
+700,5-Mar,282,200B,3,TD Garden,14,4,8056,1205,59.5,2,4
+701,5-Mar,302,Pit,10,United Center,19,2,8097,585,149.5,2,2
+702,5-Mar,430,100A,8,United Center,19,2,8097,585,149.5,2,2
+703,5-Mar,253,100B,6,United Center,19,2,8097,585,149.5,2,2
+704,5-Mar,400,200A,4,United Center,19,2,8097,585,99.5,2,2
+705,5-Mar,440,200B,3,United Center,19,2,8097,585,99.5,2,2
+706,5-Mar,249,300A,2,United Center,19,2,8097,585,39.5,2,2
+707,5-Mar,241,300B,1,United Center,19,2,8097,585,39.5,2,2
+708,5-Mar,321,Pit,10,Bridgestone Arena,23,6,8098,916,123,2,5
+709,5-Mar,408,100A,8,Bridgestone Arena,23,6,8098,916,73,2,5
+710,5-Mar,328,100B,6,Bridgestone Arena,23,6,8098,916,73,2,5
+711,5-Mar,373,200A,4,Bridgestone Arena,23,6,8098,916,53.5,2,5
+712,5-Mar,457,200B,3,Bridgestone Arena,23,6,8098,916,53.5,2,5
+713,5-Mar,226,300A,2,Bridgestone Arena,23,6,8098,916,34.4,2,5
+714,5-Mar,213,300B,1,Bridgestone Arena,23,6,8098,916,34.4,2,5
+715,5-Mar,247,Pit,10,The Forum A,29,7,2449,2162,149.5,2,6
+716,5-Mar,518,100A,8,The Forum A,29,7,2449,2162,149.5,2,6
+717,5-Mar,311,100B,6,The Forum A,29,7,2449,2162,149.5,2,6
+718,5-Mar,216,200A,4,The Forum A,29,7,2449,2162,59.5,2,6
+719,5-Mar,226,200B,3,The Forum A,29,7,2449,2162,39.5,2,6
+720,5-Mar,272,Pit,10,The Forum B,30,5,2652,2162,149.5,2,7
+721,5-Mar,524,100A,8,The Forum B,30,5,2652,2162,149.5,2,7
+722,5-Mar,298,100B,6,The Forum B,30,5,2652,2162,149.5,2,7
+723,5-Mar,265,200A,4,The Forum B,30,5,2652,2162,59.5,2,7
+724,5-Mar,222,200B,3,The Forum B,30,5,2652,2162,39.5,2,7
+725,5-Mar,254,Pit,10,The Forum C,31,2,2862,2162,149.5,2,2
+726,5-Mar,545,100A,8,The Forum C,31,2,2862,2162,149.5,2,2
+727,5-Mar,341,100B,6,The Forum C,31,2,2862,2162,149.5,2,2
+728,5-Mar,226,200A,4,The Forum C,31,2,2862,2162,59.5,2,2
+729,5-Mar,226,200B,3,The Forum C,31,2,2862,2162,39.5,2,2
+730,6-Mar,271,Pit,10,American Airlines Arena,3,1,6392,1428,145.5,2,1
+731,6-Mar,183,100A,8,American Airlines Arena,3,1,6392,1428,145.5,2,1
+732,6-Mar,567,100B,6,American Airlines Arena,3,1,6392,1428,95.5,2,1
+733,6-Mar,92,300A,2,American Airlines Arena,3,1,6392,1428,95.5,2,1
+734,6-Mar,133,300B,1,American Airlines Arena,3,1,6392,1428,65.5,2,1
+735,6-Mar,378,Pit,10,Amway Center,4,2,9204,519,146,2,2
+736,6-Mar,579,100A,8,Amway Center,4,2,9204,519,146,2,2
+737,6-Mar,177,100B,6,Amway Center,4,2,9204,519,146,2,2
+738,6-Mar,330,SuiteA,7,Amway Center,4,2,9204,519,146,2,2
+739,6-Mar,197,SuiteB,5,Amway Center,4,2,9204,519,146,2,2
+740,6-Mar,111,200A,4,Amway Center,4,2,9204,519,96.5,2,2
+741,6-Mar,103,200B,3,Amway Center,4,2,9204,519,96.5,2,2
+742,6-Mar,333,Pit,10,PNC Arena,6,4,7043,148,125.5,2,4
+743,6-Mar,348,100A,8,PNC Arena,6,4,7043,148,125.5,2,4
+744,6-Mar,260,100B,6,PNC Arena,6,4,7043,148,125.5,2,4
+745,6-Mar,333,200A,4,PNC Arena,6,4,7043,148,75.5,2,4
+746,6-Mar,329,200B,3,PNC Arena,6,4,7043,148,75.5,2,4
+747,6-Mar,219,300A,2,PNC Arena,6,4,7043,148,55.5,2,4
+748,6-Mar,198,300B,1,PNC Arena,6,4,7043,148,55.5,2,4
+749,6-Mar,267,Pit,10,Wells Fargo Center,7,6,8164,401,149.25,2,5
+750,6-Mar,304,100A,8,Wells Fargo Center,7,6,8164,401,149.25,2,5
+751,6-Mar,264,100B,6,Wells Fargo Center,7,6,8164,401,149.25,2,5
+752,6-Mar,356,SuiteA,7,Wells Fargo Center,7,6,8164,401,128,2,5
+753,6-Mar,222,SuiteB,5,Wells Fargo Center,7,6,8164,401,128,2,5
+754,6-Mar,215,200A,4,Wells Fargo Center,7,6,8164,401,39.4,2,5
+755,6-Mar,206,200B,3,Wells Fargo Center,7,6,8164,401,39.4,2,5
+756,6-Mar,252,300A,2,Wells Fargo Center,7,6,8164,401,39.4,2,5
+757,6-Mar,384,Pit,10,Madison Square Garden,9,5,2993,256,149.5,2,7
+758,6-Mar,444,Floor,9,Madison Square Garden,9,5,2993,256,149.5,2,7
+759,6-Mar,590,100A,8,Madison Square Garden,9,5,2993,256,149.5,2,7
+760,6-Mar,356,100B,6,Madison Square Garden,9,5,2993,256,149.5,2,7
+761,6-Mar,289,200A,4,Madison Square Garden,9,5,2993,256,99.5,2,7
+762,6-Mar,306,300A,2,Madison Square Garden,9,5,2993,256,39.5,2,7
+763,6-Mar,254,Pit,10,Prudential Center,10,1,1443,2,149.5,2,1
+764,6-Mar,297,100A,8,Prudential Center,10,1,1443,2,149.5,2,1
+765,6-Mar,195,100B,6,Prudential Center,10,1,1443,2,149.5,2,1
+766,6-Mar,307,SuiteA,7,Prudential Center,10,1,1443,2,149.5,2,1
+767,6-Mar,245,200A,4,Prudential Center,10,1,1443,2,99.5,2,1
+768,6-Mar,164,200B,3,Prudential Center,10,1,1443,2,99.5,2,1
+769,6-Mar,172,300A,2,Prudential Center,10,1,1443,2,39.5,2,1
+770,6-Mar,164,300B,1,Prudential Center,10,1,1443,2,39.5,2,1
+771,6-Mar,259,Pit,10,Capital One Arena,12,3,8285,421,149.5,2,3
+772,6-Mar,354,100A,8,Capital One Arena,12,3,8285,421,149.5,2,3
+773,6-Mar,188,100B,6,Capital One Arena,12,3,8285,421,149.5,2,3
+774,6-Mar,308,SuiteA,7,Capital One Arena,12,3,8285,421,149.5,2,3
+775,6-Mar,302,SuiteB,5,Capital One Arena,12,3,8285,421,149.5,2,3
+776,6-Mar,334,200A,4,Capital One Arena,12,3,8285,421,99.5,2,3
+777,6-Mar,295,200B,3,Capital One Arena,12,3,8285,421,99.5,2,3
+778,6-Mar,186,300A,2,Capital One Arena,12,3,8285,421,39.5,2,3
+779,6-Mar,191,300B,1,Capital One Arena,12,3,8285,421,39.5,2,3
+780,6-Mar,279,Pit,10,TD Garden,13,4,8123,1205,149.5,2,4
+781,6-Mar,443,100A,8,TD Garden,13,4,8123,1205,145.5,2,4
+782,6-Mar,313,100B,6,TD Garden,13,4,8123,1205,99.5,2,4
+783,6-Mar,422,SuiteA,7,TD Garden,13,4,8123,1205,149.5,2,4
+784,6-Mar,277,200A,4,TD Garden,13,4,8123,1205,59.5,2,4
+785,6-Mar,250,200B,3,TD Garden,13,4,8123,1205,39.5,2,4
+786,6-Mar,302,Pit,10,United Center,18,2,8176,585,149.5,2,2
+787,6-Mar,430,100A,8,United Center,18,2,8176,585,149.5,2,2
+788,6-Mar,253,100B,6,United Center,18,2,8176,585,149.5,2,2
+789,6-Mar,400,200A,4,United Center,18,2,8176,585,99.5,2,2
+790,6-Mar,426,200B,3,United Center,18,2,8176,585,99.5,2,2
+791,6-Mar,234,300A,2,United Center,18,2,8176,585,39.5,2,2
+792,6-Mar,237,300B,1,United Center,18,2,8176,585,39.5,2,2
+793,6-Mar,334,Pit,10,Bridgestone Arena,22,6,8126,916,123,2,5
+794,6-Mar,408,100A,8,Bridgestone Arena,22,6,8126,916,73,2,5
+795,6-Mar,368,100B,6,Bridgestone Arena,22,6,8126,916,73,2,5
+796,6-Mar,373,200A,4,Bridgestone Arena,22,6,8126,916,53.5,2,5
+797,6-Mar,457,200B,3,Bridgestone Arena,22,6,8126,916,53.5,2,5
+798,6-Mar,226,300A,2,Bridgestone Arena,22,6,8126,916,34.4,2,5
+799,6-Mar,213,300B,1,Bridgestone Arena,22,6,8126,916,34.4,2,5
+800,6-Mar,284,Pit,10,The Forum A,28,7,2473,2162,149.5,2,6
+801,6-Mar,518,100A,8,The Forum A,28,7,2473,2162,149.5,2,6
+802,6-Mar,311,100B,6,The Forum A,28,7,2473,2162,149.5,2,6
+803,6-Mar,216,200A,4,The Forum A,28,7,2473,2162,59.5,2,6
+804,6-Mar,221,200B,3,The Forum A,28,7,2473,2162,39.5,2,6
+805,6-Mar,272,Pit,10,The Forum B,29,5,2682,2162,149.5,2,7
+806,6-Mar,524,100A,8,The Forum B,29,5,2682,2162,149.5,2,7
+807,6-Mar,298,100B,6,The Forum B,29,5,2682,2162,149.5,2,7
+808,6-Mar,338,200A,4,The Forum B,29,5,2682,2162,59.5,2,7
+809,6-Mar,222,200B,3,The Forum B,29,5,2682,2162,39.5,2,7
+810,6-Mar,254,Pit,10,The Forum C,30,2,2881,2162,149.5,2,2
+811,6-Mar,545,100A,8,The Forum C,30,2,2881,2162,149.5,2,2
+812,6-Mar,341,100B,6,The Forum C,30,2,2881,2162,149.5,2,2
+813,6-Mar,226,200A,4,The Forum C,30,2,2881,2162,59.5,2,2
+814,6-Mar,226,200B,3,The Forum C,30,2,2881,2162,39.5,2,2
+815,7-Mar,267,Pit,10,American Airlines Arena,2,1,6441,1428,145.5,2,1
+816,7-Mar,172,100A,8,American Airlines Arena,2,1,6441,1428,145.5,2,1
+817,7-Mar,171,100B,6,American Airlines Arena,2,1,6441,1428,95.5,2,1
+818,7-Mar,286,200B,3,American Airlines Arena,2,1,6441,1428,65.5,2,1
+819,7-Mar,97,300A,2,American Airlines Arena,2,1,6441,1428,95.5,2,1
+820,7-Mar,212,300B,1,American Airlines Arena,2,1,6441,1428,65.5,2,1
+820,7-Mar,331,Pit,10,Amway Center,3,2,9254,519,146,2,2
+821,7-Mar,496,100A,8,Amway Center,3,2,9254,519,146,2,2
+822,7-Mar,172,100B,6,Amway Center,3,2,9254,519,146,2,2
+823,7-Mar,330,SuiteA,7,Amway Center,3,2,9254,519,146,2,2
+824,7-Mar,244,SuiteB,5,Amway Center,3,2,9254,519,146,2,2
+825,7-Mar,124,200A,4,Amway Center,3,2,9254,519,96.5,2,2
+826,7-Mar,105,200B,3,Amway Center,3,2,9254,519,96.5,2,2
+827,7-Mar,321,Pit,10,PNC Arena,5,4,7063,148,125.5,2,4
+828,7-Mar,311,100A,8,PNC Arena,5,4,7063,148,125.5,2,4
+829,7-Mar,182,100B,6,PNC Arena,5,4,7063,148,125.5,2,4
+830,7-Mar,333,200A,4,PNC Arena,5,4,7063,148,75.5,2,4
+831,7-Mar,329,200B,3,PNC Arena,5,4,7063,148,75.5,2,4
+832,7-Mar,218,300A,2,PNC Arena,5,4,7063,148,55.5,2,4
+833,7-Mar,176,300B,1,PNC Arena,5,4,7063,148,55.5,2,4
+834,7-Mar,266,Pit,10,Wells Fargo Center,6,6,8172,401,149.25,2,5
+835,7-Mar,280,100A,8,Wells Fargo Center,6,6,8172,401,149.25,2,5
+836,7-Mar,264,100B,6,Wells Fargo Center,6,6,8172,401,149.25,2,5
+837,7-Mar,356,SuiteA,7,Wells Fargo Center,6,6,8172,401,128,2,5
+838,7-Mar,222,SuiteB,5,Wells Fargo Center,6,6,8172,401,128,2,5
+839,7-Mar,165,200A,4,Wells Fargo Center,6,6,8172,401,39.4,2,5
+840,7-Mar,220,200B,3,Wells Fargo Center,6,6,8172,401,39.4,2,5
+841,7-Mar,252,300A,2,Wells Fargo Center,6,6,8172,401,39.4,2,5
+842,7-Mar,328,Pit,10,Madison Square Garden,8,5,3005,256,149.5,2,7
+843,7-Mar,441,Floor,9,Madison Square Garden,8,5,3005,256,149.5,2,7
+844,7-Mar,609,100A,8,Madison Square Garden,8,5,3005,256,149.5,2,7
+845,7-Mar,551,100B,6,Madison Square Garden,8,5,3005,256,149.5,2,7
+846,7-Mar,372,200A,4,Madison Square Garden,8,5,3005,256,99.5,2,7
+847,7-Mar,316,300A,2,Madison Square Garden,8,5,3005,256,39.5,2,7
+848,7-Mar,241,Pit,10,Prudential Center,9,1,1454,2,149.5,2,1
+849,7-Mar,229,100A,8,Prudential Center,9,1,1454,2,149.5,2,1
+850,7-Mar,202,100B,6,Prudential Center,9,1,1454,2,149.5,2,1
+851,7-Mar,312,SuiteA,7,Prudential Center,9,1,1454,2,149.5,2,1
+852,7-Mar,217,200A,4,Prudential Center,9,1,1454,2,99.5,2,1
+853,7-Mar,169,200B,3,Prudential Center,9,1,1454,2,99.5,2,1
+854,7-Mar,210,300A,2,Prudential Center,9,1,1454,2,39.5,2,1
+855,7-Mar,157,300B,1,Prudential Center,9,1,1454,2,39.5,2,1
+856,7-Mar,256,Pit,10,Capital One Arena,11,3,8310,421,149.5,2,3
+857,7-Mar,354,100A,8,Capital One Arena,11,3,8310,421,149.5,2,3
+858,7-Mar,322,100B,6,Capital One Arena,11,3,8310,421,149.5,2,3
+859,7-Mar,318,SuiteA,7,Capital One Arena,11,3,8310,421,149.5,2,3
+860,7-Mar,312,SuiteB,5,Capital One Arena,11,3,8310,421,149.5,2,3
+861,7-Mar,346,200A,4,Capital One Arena,11,3,8310,421,99.5,2,3
+862,7-Mar,329,200B,3,Capital One Arena,11,3,8310,421,99.5,2,3
+863,7-Mar,190,300A,2,Capital One Arena,11,3,8310,421,39.5,2,3
+864,7-Mar,157,300B,1,Capital One Arena,11,3,8310,421,39.5,2,3
+865,7-Mar,292,Pit,10,TD Garden,12,4,8168,1205,149.5,2,4
+866,7-Mar,336,100A,8,TD Garden,12,4,8168,1205,145.5,2,4
+867,7-Mar,323,100B,6,TD Garden,12,4,8168,1205,99.5,2,4
+868,7-Mar,437,SuiteA,7,TD Garden,12,4,8168,1205,149.5,2,4
+869,7-Mar,286,200A,4,TD Garden,12,4,8168,1205,59.5,2,4
+870,7-Mar,258,200B,3,TD Garden,12,4,8168,1205,39.5,2,4
+871,7-Mar,297,Pit,10,United Center,17,2,8231,585,149.5,2,2
+872,7-Mar,444,100A,8,United Center,17,2,8231,585,149.5,2,2
+873,7-Mar,367,100B,6,United Center,17,2,8231,585,149.5,2,2
+874,7-Mar,414,200A,4,United Center,17,2,8231,585,99.5,2,2
+875,7-Mar,440,200B,3,United Center,17,2,8231,585,99.5,2,2
+876,7-Mar,241,300A,2,United Center,17,2,8231,585,39.5,2,2
+877,7-Mar,248,300B,1,United Center,17,2,8231,585,39.5,2,2
+878,7-Mar,342,Pit,10,Bridgestone Arena,21,6,8147,916,123,2,5
+879,7-Mar,422,100A,8,Bridgestone Arena,21,6,8147,916,73,2,5
+880,7-Mar,359,100B,6,Bridgestone Arena,21,6,8147,916,73,2,5
+881,7-Mar,384,200A,4,Bridgestone Arena,21,6,8147,916,53.5,2,5
+882,7-Mar,473,200B,3,Bridgestone Arena,21,6,8147,916,53.5,2,5
+883,7-Mar,183,300A,2,Bridgestone Arena,21,6,8147,916,34.4,2,5
+884,7-Mar,187,300B,1,Bridgestone Arena,21,6,8147,916,34.4,2,5
+885,7-Mar,262,Pit,10,The Forum A,27,7,2498,2162,149.5,2,6
+886,7-Mar,536,100A,8,The Forum A,27,7,2498,2162,149.5,2,6
+887,7-Mar,322,100B,6,The Forum A,27,7,2498,2162,149.5,2,6
+888,7-Mar,218,200A,4,The Forum A,27,7,2498,2162,59.5,2,6
+889,7-Mar,229,200B,3,The Forum A,27,7,2498,2162,39.5,2,6
+890,7-Mar,280,Pit,10,The Forum B,28,5,2690,2162,149.5,2,7
+891,7-Mar,524,100A,8,The Forum B,28,5,2690,2162,149.5,2,7
+892,7-Mar,308,100B,6,The Forum B,28,5,2690,2162,149.5,2,7
+893,7-Mar,349,200A,4,The Forum B,28,5,2690,2162,59.5,2,7
+894,7-Mar,230,200B,3,The Forum B,28,5,2690,2162,39.5,2,7
+895,7-Mar,254,Pit,10,The Forum C,29,2,2893,2162,149.5,2,2
+896,7-Mar,563,100A,8,The Forum C,29,2,2893,2162,149.5,2,2
+897,7-Mar,352,100B,6,The Forum C,29,2,2893,2162,149.5,2,2
+898,7-Mar,234,200A,4,The Forum C,29,2,2893,2162,59.5,2,2
+899,7-Mar,234,200B,3,The Forum C,29,2,2893,2162,39.5,2,2
+900,8-Mar,203,Pit,10,American Airlines Arena,1,1,6524,1428,145.5,2,1
+901,8-Mar,167,100A,8,American Airlines Arena,1,1,6524,1428,145.5,2,1
+902,8-Mar,145,100B,6,American Airlines Arena,1,1,6524,1428,95.5,2,1
+903,8-Mar,272,200B,3,American Airlines Arena,1,1,6524,1428,65.5,2,1
+904,8-Mar,98,300A,2,American Airlines Arena,1,1,6524,1428,95.5,2,1
+905,8-Mar,101,300B,1,American Airlines Arena,1,1,6524,1428,65.5,2,1
+906,8-Mar,279,Pit,10,Amway Center,2,2,9339,519,146,2,2
+907,8-Mar,455,100A,8,Amway Center,2,2,9339,519,146,2,2
+908,8-Mar,155,100B,6,Amway Center,2,2,9339,519,146,2,2
+909,8-Mar,317,SuiteA,7,Amway Center,2,2,9339,519,146,2,2
+910,8-Mar,220,SuiteB,5,Amway Center,2,2,9339,519,146,2,2
+911,8-Mar,89,200A,4,Amway Center,2,2,9339,519,96.5,2,2
+912,8-Mar,100,200B,3,Amway Center,2,2,9339,519,96.5,2,2
+913,8-Mar,248,Pit,10,PNC Arena,4,4,7110,148,125.5,2,4
+914,8-Mar,302,100A,8,PNC Arena,4,4,7110,148,125.5,2,4
+915,8-Mar,215,100B,6,PNC Arena,4,4,7110,148,125.5,2,4
+916,8-Mar,340,200A,4,PNC Arena,4,4,7110,148,75.5,2,4
+917,8-Mar,329,200B,3,PNC Arena,4,4,7110,148,75.5,2,4
+918,8-Mar,199,300A,2,PNC Arena,4,4,7110,148,55.5,2,4
+919,8-Mar,174,300B,1,PNC Arena,4,4,7110,148,55.5,2,4
+920,8-Mar,263,Pit,10,Wells Fargo Center,5,6,8175,401,149.25,2,5
+921,8-Mar,259,100A,8,Wells Fargo Center,5,6,8175,401,149.25,2,5
+922,8-Mar,248,100B,6,Wells Fargo Center,5,6,8175,401,149.25,2,5
+923,8-Mar,356,SuiteA,7,Wells Fargo Center,5,6,8175,401,128,2,5
+924,8-Mar,222,SuiteB,5,Wells Fargo Center,5,6,8175,401,128,2,5
+925,8-Mar,172,200A,4,Wells Fargo Center,5,6,8175,401,39.4,2,5
+926,8-Mar,206,200B,3,Wells Fargo Center,5,6,8175,401,39.4,2,5
+927,8-Mar,252,300A,2,Wells Fargo Center,5,6,8175,401,39.4,2,5
+928,8-Mar,350,Pit,10,Madison Square Garden,7,5,3028,256,149.5,2,7
+929,8-Mar,427,Floor,9,Madison Square Garden,7,5,3028,256,149.5,2,7
+930,8-Mar,590,100A,8,Madison Square Garden,7,5,3028,256,149.5,2,7
+931,8-Mar,533,100B,6,Madison Square Garden,7,5,3028,256,149.5,2,7
+932,8-Mar,335,200A,4,Madison Square Garden,7,5,3028,256,99.5,2,7
+933,8-Mar,306,300A,2,Madison Square Garden,7,5,3028,256,39.5,2,7
+934,8-Mar,231,Pit,10,Prudential Center,8,1,1473,2,149.5,2,1
+935,8-Mar,221,100A,8,Prudential Center,8,1,1473,2,149.5,2,1
+936,8-Mar,195,100B,6,Prudential Center,8,1,1473,2,149.5,2,1
+937,8-Mar,302,SuiteA,7,Prudential Center,8,1,1473,2,149.5,2,1
+938,8-Mar,206,200A,4,Prudential Center,8,1,1473,2,99.5,2,1
+939,8-Mar,164,200B,3,Prudential Center,8,1,1473,2,99.5,2,1
+940,8-Mar,203,300A,2,Prudential Center,8,1,1473,2,39.5,2,1
+941,8-Mar,162,300B,1,Prudential Center,8,1,1473,2,39.5,2,1
+942,8-Mar,243,Pit,10,Capital One Arena,10,3,8371,421,149.5,2,3
+943,8-Mar,354,100A,8,Capital One Arena,10,3,8371,421,149.5,2,3
+944,8-Mar,268,100B,6,Capital One Arena,10,3,8371,421,149.5,2,3
+945,8-Mar,308,SuiteA,7,Capital One Arena,10,3,8371,421,149.5,2,3
+946,8-Mar,284,SuiteB,5,Capital One Arena,10,3,8371,421,149.5,2,3
+947,8-Mar,334,200A,4,Capital One Arena,10,3,8371,421,99.5,2,3
+948,8-Mar,318,200B,3,Capital One Arena,10,3,8371,421,99.5,2,3
+949,8-Mar,177,300A,2,Capital One Arena,10,3,8371,421,39.5,2,3
+950,8-Mar,157,300B,1,Capital One Arena,10,3,8371,421,39.5,2,3
+951,8-Mar,282,Pit,10,TD Garden,11,4,8255,1205,149.5,2,4
+952,8-Mar,325,100A,8,TD Garden,11,4,8255,1205,145.5,2,4
+953,8-Mar,313,100B,6,TD Garden,11,4,8255,1205,99.5,2,4
+954,8-Mar,422,SuiteA,7,TD Garden,11,4,8255,1205,149.5,2,4
+955,8-Mar,260,200A,4,TD Garden,11,4,8255,1205,59.5,2,4
+956,8-Mar,250,200B,3,TD Garden,11,4,8255,1205,39.5,2,4
+957,8-Mar,270,Pit,10,United Center,16,2,8320,585,149.5,2,2
+958,8-Mar,430,100A,8,United Center,16,2,8320,585,149.5,2,2
+959,8-Mar,355,100B,6,United Center,16,2,8320,585,149.5,2,2
+960,8-Mar,400,200A,4,United Center,16,2,8320,585,99.5,2,2
+961,8-Mar,399,200B,3,United Center,16,2,8320,585,99.5,2,2
+962,8-Mar,243,300A,2,United Center,16,2,8320,585,39.5,2,2
+963,8-Mar,240,300B,1,United Center,16,2,8320,585,39.5,2,2
+964,8-Mar,331,Pit,10,Bridgestone Arena,20,6,8187,916,123,2,5
+965,8-Mar,408,100A,8,Bridgestone Arena,20,6,8187,916,73,2,5
+966,8-Mar,470,100B,6,Bridgestone Arena,20,6,8187,916,73,2,5
+967,8-Mar,371,200A,4,Bridgestone Arena,20,6,8187,916,53.5,2,5
+968,8-Mar,457,200B,3,Bridgestone Arena,20,6,8187,916,53.5,2,5
+969,8-Mar,202,300A,2,Bridgestone Arena,20,6,8187,916,34.4,2,5
+970,8-Mar,206,300B,1,Bridgestone Arena,20,6,8187,916,34.4,2,5
+971,8-Mar,255,Pit,10,The Forum A,26,7,2527,2162,149.5,2,6
+972,8-Mar,518,100A,8,The Forum A,26,7,2527,2162,149.5,2,6
+973,8-Mar,289,100B,6,The Forum A,26,7,2527,2162,149.5,2,6
+974,8-Mar,220,200A,4,The Forum A,26,7,2527,2162,59.5,2,6
+975,8-Mar,221,200B,3,The Forum A,26,7,2527,2162,39.5,2,6
+976,8-Mar,266,Pit,10,The Forum B,27,5,2708,2162,149.5,2,7
+977,8-Mar,524,100A,8,The Forum B,27,5,2708,2162,149.5,2,7
+978,8-Mar,298,100B,6,The Forum B,27,5,2708,2162,149.5,2,7
+979,8-Mar,311,200A,4,The Forum B,27,5,2708,2162,59.5,2,7
+980,8-Mar,222,200B,3,The Forum B,27,5,2708,2162,39.5,2,7
+981,8-Mar,238,Pit,10,The Forum C,28,2,2902,2162,149.5,2,2
+982,8-Mar,545,100A,8,The Forum C,28,2,2902,2162,149.5,2,2
+983,8-Mar,301,100B,6,The Forum C,28,2,2902,2162,149.5,2,2
+984,8-Mar,226,200A,4,The Forum C,28,2,2902,2162,59.5,2,2
+985,8-Mar,197,200B,3,The Forum C,28,2,2902,2162,39.5,2,2
+986,9-Mar,195,Pit,10,American Airlines Arena,0,1,6633,1428,145.5,2,1
+987,9-Mar,199,100A,8,American Airlines Arena,0,1,6633,1428,145.5,2,1
+988,9-Mar,133,100B,6,American Airlines Arena,0,1,6633,1428,95.5,2,1
+989,9-Mar,102,300A,2,American Airlines Arena,0,1,6633,1428,95.5,2,1
+990,9-Mar,100,300B,1,American Airlines Arena,0,1,6633,1428,65.5,2,1
+991,9-Mar,177,Pit,10,Amway Center,1,2,9396,519,146,2,2
+992,9-Mar,506,100A,8,Amway Center,1,2,9396,519,146,2,2
+993,9-Mar,184,100B,6,Amway Center,1,2,9396,519,146,2,2
+994,9-Mar,265,SuiteA,7,Amway Center,1,2,9396,519,146,2,2
+995,9-Mar,195,SuiteB,5,Amway Center,1,2,9396,519,146,2,2
+996,9-Mar,111,200A,4,Amway Center,1,2,9396,519,96.5,2,2
+997,9-Mar,102,200B,3,Amway Center,1,2,9396,519,96.5,2,2
+998,9-Mar,258,Pit,10,PNC Arena,3,4,7121,148,125.5,2,4
+999,9-Mar,250,100A,8,PNC Arena,3,4,7121,148,125.5,2,4
+1000,9-Mar,211,100B,6,PNC Arena,3,4,7121,148,125.5,2,4
+1001,9-Mar,318,200A,4,PNC Arena,3,4,7121,148,75.5,2,4
+1002,9-Mar,294,200B,3,PNC Arena,3,4,7121,148,75.5,2,4
+1003,9-Mar,133,300A,2,PNC Arena,3,4,7121,148,55.5,2,4
+1004,9-Mar,145,300B,1,PNC Arena,3,4,7121,148,55.5,2,4
+1005,9-Mar,193,Pit,10,Wells Fargo Center,4,6,8192,401,149.25,2,5
+1006,9-Mar,195,100A,8,Wells Fargo Center,4,6,8192,401,149.25,2,5
+1007,9-Mar,275,100B,6,Wells Fargo Center,4,6,8192,401,149.25,2,5
+1008,9-Mar,356,SuiteA,7,Wells Fargo Center,4,6,8192,401,128,2,5
+1009,9-Mar,222,SuiteB,5,Wells Fargo Center,4,6,8192,401,128,2,5
+1010,9-Mar,172,200A,4,Wells Fargo Center,4,6,8192,401,39.4,2,5
+1011,9-Mar,197,200B,3,Wells Fargo Center,4,6,8192,401,39.4,2,5
+1012,9-Mar,165,300A,2,Wells Fargo Center,4,6,8192,401,39.4,2,5
+1013,9-Mar,311,Pit,10,Madison Square Garden,6,5,3044,256,149.5,2,7
+1014,9-Mar,388,Floor,9,Madison Square Garden,6,5,3044,256,149.5,2,7
+1015,9-Mar,590,100A,8,Madison Square Garden,6,5,3044,256,149.5,2,7
+1016,9-Mar,311,100B,6,Madison Square Garden,6,5,3044,256,149.5,2,7
+1017,9-Mar,335,200A,4,Madison Square Garden,6,5,3044,256,99.5,2,7
+1018,9-Mar,261,300A,2,Madison Square Garden,6,5,3044,256,39.5,2,7
+1019,9-Mar,190,Pit,10,Prudential Center,7,1,1481,2,149.5,2,1
+1020,9-Mar,315,100A,8,Prudential Center,7,1,1481,2,149.5,2,1
+1021,9-Mar,195,100B,6,Prudential Center,7,1,1481,2,149.5,2,1
+1022,9-Mar,298,SuiteA,7,Prudential Center,7,1,1481,2,149.5,2,1
+1023,9-Mar,206,200A,4,Prudential Center,7,1,1481,2,99.5,2,1
+1024,9-Mar,177,200B,3,Prudential Center,7,1,1481,2,99.5,2,1
+1025,9-Mar,158,300A,2,Prudential Center,7,1,1481,2,39.5,2,1
+1026,9-Mar,164,300B,1,Prudential Center,7,1,1481,2,39.5,2,1
+1027,9-Mar,239,Pit,10,Capital One Arena,9,3,8403,421,149.5,2,3
+1028,9-Mar,396,100A,8,Capital One Arena,9,3,8403,421,149.5,2,3
+1029,9-Mar,311,100B,6,Capital One Arena,9,3,8403,421,149.5,2,3
+1030,9-Mar,308,SuiteA,7,Capital One Arena,9,3,8403,421,149.5,2,3
+1031,9-Mar,284,SuiteB,5,Capital One Arena,9,3,8403,421,149.5,2,3
+1032,9-Mar,321,200A,4,Capital One Arena,9,3,8403,421,99.5,2,3
+1033,9-Mar,318,200B,3,Capital One Arena,9,3,8403,421,99.5,2,3
+1034,9-Mar,173,300A,2,Capital One Arena,9,3,8403,421,39.5,2,3
+1035,9-Mar,175,300B,1,Capital One Arena,9,3,8403,421,39.5,2,3
+1036,9-Mar,289,Pit,10,TD Garden,10,4,8344,1205,149.5,2,4
+1037,9-Mar,338,100A,8,TD Garden,10,4,8344,1205,145.5,2,4
+1038,9-Mar,313,100B,6,TD Garden,10,4,8344,1205,99.5,2,4
+1039,9-Mar,400,SuiteA,7,TD Garden,10,4,8344,1205,149.5,2,4
+1040,9-Mar,277,200A,4,TD Garden,10,4,8344,1205,59.5,2,4
+1041,9-Mar,250,200B,3,TD Garden,10,4,8344,1205,39.5,2,4
+1042,9-Mar,244,Pit,10,United Center,15,2,8408,585,149.5,2,2
+1043,9-Mar,430,100A,8,United Center,15,2,8408,585,149.5,2,2
+1044,9-Mar,355,100B,6,United Center,15,2,8408,585,149.5,2,2
+1045,9-Mar,400,200A,4,United Center,15,2,8408,585,99.5,2,2
+1046,9-Mar,381,200B,3,United Center,15,2,8408,585,99.5,2,2
+1047,9-Mar,219,300A,2,United Center,15,2,8408,585,39.5,2,2
+1048,9-Mar,211,300B,1,United Center,15,2,8408,585,39.5,2,2
+1049,9-Mar,301,Pit,10,Bridgestone Arena,19,6,8205,916,123,2,5
+1050,9-Mar,408,100A,8,Bridgestone Arena,19,6,8205,916,73,2,5
+1051,9-Mar,470,100B,6,Bridgestone Arena,19,6,8205,916,73,2,5
+1052,9-Mar,341,200A,4,Bridgestone Arena,19,6,8205,916,53.5,2,5
+1053,9-Mar,457,200B,3,Bridgestone Arena,19,6,8205,916,53.5,2,5
+1054,9-Mar,208,300A,2,Bridgestone Arena,19,6,8205,916,34.4,2,5
+1055,9-Mar,202,300B,1,Bridgestone Arena,19,6,8205,916,34.4,2,5
+1056,9-Mar,233,Pit,10,The Forum A,25,7,2560,2162,149.5,2,6
+1057,9-Mar,518,100A,8,The Forum A,25,7,2560,2162,149.5,2,6
+1058,9-Mar,289,100B,6,The Forum A,25,7,2560,2162,149.5,2,6
+1059,9-Mar,203,200A,4,The Forum A,25,7,2560,2162,59.5,2,6
+1060,9-Mar,208,200B,3,The Forum A,25,7,2560,2162,39.5,2,6
+1061,9-Mar,244,Pit,10,The Forum B,26,5,2728,2162,149.5,2,7
+1062,9-Mar,524,100A,8,The Forum B,26,5,2728,2162,149.5,2,7
+1063,9-Mar,298,100B,6,The Forum B,26,5,2728,2162,149.5,2,7
+1064,9-Mar,252,200A,4,The Forum B,26,5,2728,2162,59.5,2,7
+1065,9-Mar,222,200B,3,The Forum B,26,5,2728,2162,39.5,2,7
+1066,9-Mar,202,Pit,10,The Forum C,27,2,2908,2162,149.5,2,2
+1067,9-Mar,528,100A,8,The Forum C,27,2,2908,2162,149.5,2,2
+1068,9-Mar,301,100B,6,The Forum C,27,2,2908,2162,149.5,2,2
+1069,9-Mar,226,200A,4,The Forum C,27,2,2908,2162,59.5,2,2
+1070,9-Mar,197,200B,3,The Forum C,27,2,2908,2162,39.5,2,2
+1071,10-Mar,161,Pit,10,Amway Center,0,2,9451,519,146,3,2
+1072,10-Mar,188,100A,8,Amway Center,0,2,9451,519,146,3,2
+1073,10-Mar,183,100B,6,Amway Center,0,2,9451,519,146,3,2
+1074,10-Mar,187,SuiteB,5,Amway Center,0,2,9451,519,146,3,2
+1075,10-Mar,131,200A,4,Amway Center,0,2,9451,519,96.5,3,2
+1076,10-Mar,85,200B,3,Amway Center,0,2,9451,519,96.5,3,2
+1077,10-Mar,219,Pit,10,PNC Arena,2,4,7161,148,125.5,3,4
+1078,10-Mar,266,100A,8,PNC Arena,2,4,7161,148,125.5,3,4
+1079,10-Mar,194,100B,6,PNC Arena,2,4,7161,148,125.5,3,4
+1080,10-Mar,291,200A,4,PNC Arena,2,4,7161,148,75.5,3,4
+1081,10-Mar,259,200B,3,PNC Arena,2,4,7161,148,75.5,3,4
+1082,10-Mar,133,300A,2,PNC Arena,2,4,7161,148,55.5,3,4
+1083,10-Mar,104,300B,1,PNC Arena,2,4,7161,148,55.5,3,4
+1084,10-Mar,202,Pit,10,Wells Fargo Center,3,6,8238,401,149.25,3,5
+1085,10-Mar,305,100A,8,Wells Fargo Center,3,6,8238,401,149.25,3,5
+1086,10-Mar,226,100B,6,Wells Fargo Center,3,6,8238,401,149.25,3,5
+1087,10-Mar,322,SuiteA,7,Wells Fargo Center,3,6,8238,401,128,3,5
+1088,10-Mar,225,SuiteB,5,Wells Fargo Center,3,6,8238,401,128,3,5
+1089,10-Mar,146,200A,4,Wells Fargo Center,3,6,8238,401,39.4,3,5
+1090,10-Mar,183,200B,3,Wells Fargo Center,3,6,8238,401,39.4,3,5
+1091,10-Mar,153,300A,2,Wells Fargo Center,3,6,8238,401,39.4,3,5
+1092,10-Mar,275,Pit,10,Madison Square Garden,5,5,3067,256,149.5,3,7
+1093,10-Mar,375,Floor,9,Madison Square Garden,5,5,3067,256,149.5,3,7
+1094,10-Mar,609,100A,8,Madison Square Garden,5,5,3067,256,149.5,3,7
+1095,10-Mar,305,100B,6,Madison Square Garden,5,5,3067,256,149.5,3,7
+1096,10-Mar,250,200A,4,Madison Square Garden,5,5,3067,256,99.5,3,7
+1097,10-Mar,229,300A,2,Madison Square Garden,5,5,3067,256,39.5,3,7
+1098,10-Mar,218,Pit,10,Prudential Center,6,1,1493,2,149.5,3,1
+1099,10-Mar,313,100A,8,Prudential Center,6,1,1493,2,149.5,3,1
+1100,10-Mar,202,100B,6,Prudential Center,6,1,1493,2,149.5,3,1
+1101,10-Mar,299,SuiteA,7,Prudential Center,6,1,1493,2,149.5,3,1
+1102,10-Mar,212,200A,4,Prudential Center,6,1,1493,2,99.5,3,1
+1103,10-Mar,212,200B,3,Prudential Center,6,1,1493,2,99.5,3,1
+1104,10-Mar,160,300A,2,Prudential Center,6,1,1493,2,39.5,3,1
+1105,10-Mar,175,300B,1,Prudential Center,6,1,1493,2,39.5,3,1
+1106,10-Mar,214,Pit,10,Capital One Arena,8,3,8434,421,149.5,3,3
+1107,10-Mar,409,100A,8,Capital One Arena,8,3,8434,421,149.5,3,3
+1108,10-Mar,300,100B,6,Capital One Arena,8,3,8434,421,149.5,3,3
+1109,10-Mar,273,SuiteA,7,Capital One Arena,8,3,8434,421,149.5,3,3
+1110,10-Mar,267,SuiteB,5,Capital One Arena,8,3,8434,421,149.5,3,3
+1111,10-Mar,294,200A,4,Capital One Arena,8,3,8434,421,99.5,3,3
+1112,10-Mar,329,200B,3,Capital One Arena,8,3,8434,421,99.5,3,3
+1113,10-Mar,177,300A,2,Capital One Arena,8,3,8434,421,39.5,3,3
+1114,10-Mar,143,300B,1,Capital One Arena,8,3,8434,421,39.5,3,3
+1115,10-Mar,300,Pit,10,TD Garden,9,4,8393,1205,149.5,3,4
+1116,10-Mar,340,100A,8,TD Garden,9,4,8393,1205,145.5,3,4
+1117,10-Mar,316,100B,6,TD Garden,9,4,8393,1205,99.5,3,4
+1118,10-Mar,414,SuiteA,7,TD Garden,9,4,8393,1205,149.5,3,4
+1119,10-Mar,269,200A,4,TD Garden,9,4,8393,1205,59.5,3,4
+1120,10-Mar,213,200B,3,TD Garden,9,4,8393,1205,39.5,3,4
+1121,10-Mar,232,Pit,10,United Center,14,2,8488,585,149.5,3,2
+1122,10-Mar,438,100A,8,United Center,14,2,8488,585,149.5,3,2
+1123,10-Mar,367,100B,6,United Center,14,2,8488,585,149.5,3,2
+1124,10-Mar,414,200A,4,United Center,14,2,8488,585,99.5,3,2
+1125,10-Mar,394,200B,3,United Center,14,2,8488,585,99.5,3,2
+1126,10-Mar,227,300A,2,United Center,14,2,8488,585,39.5,3,2
+1127,10-Mar,187,300B,1,United Center,14,2,8488,585,39.5,3,2
+1128,10-Mar,310,Pit,10,Bridgestone Arena,18,6,8230,916,123,3,5
+1129,10-Mar,422,100A,8,Bridgestone Arena,18,6,8230,916,73,3,5
+1130,10-Mar,402,100B,6,Bridgestone Arena,18,6,8230,916,73,3,5
+1131,10-Mar,342,200A,4,Bridgestone Arena,18,6,8230,916,53.5,3,5
+1132,10-Mar,473,200B,3,Bridgestone Arena,18,6,8230,916,53.5,3,5
+1133,10-Mar,187,300A,2,Bridgestone Arena,18,6,8230,916,34.4,3,5
+1134,10-Mar,177,300B,1,Bridgestone Arena,18,6,8230,916,34.4,3,5
+1135,10-Mar,243,Pit,10,The Forum A,24,7,2596,2162,149.5,3,6
+1136,10-Mar,536,100A,8,The Forum A,24,7,2596,2162,149.5,3,6
+1137,10-Mar,379,100B,6,The Forum A,24,7,2596,2162,149.5,3,6
+1138,10-Mar,193,200A,4,The Forum A,24,7,2596,2162,59.5,3,6
+1139,10-Mar,200,200B,3,The Forum A,24,7,2596,2162,39.5,3,6
+1140,10-Mar,261,Pit,10,The Forum B,25,5,2742,2162,149.5,3,7
+1141,10-Mar,524,100A,8,The Forum B,25,5,2742,2162,149.5,3,7
+1142,10-Mar,308,100B,6,The Forum B,25,5,2742,2162,149.5,3,7
+1143,10-Mar,216,200A,4,The Forum B,25,5,2742,2162,59.5,3,7
+1144,10-Mar,213,200B,3,The Forum B,25,5,2742,2162,39.5,3,7
+1145,10-Mar,237,Pit,10,The Forum C,26,2,2920,2162,149.5,3,2
+1146,10-Mar,563,100A,8,The Forum C,26,2,2920,2162,149.5,3,2
+1147,10-Mar,346,100B,6,The Forum C,26,2,2920,2162,149.5,3,2
+1148,10-Mar,234,200A,4,The Forum C,26,2,2920,2162,59.5,3,2
+1149,10-Mar,203,200B,3,The Forum C,26,2,2920,2162,39.5,3,2
+1150,11-Mar,399,Pit,10,PNC Arena,1,4,7308,148,125.5,4,4
+1151,11-Mar,225,100A,8,PNC Arena,1,4,7308,148,125.5,4,4
+1152,11-Mar,155,100B,6,PNC Arena,1,4,7308,148,125.5,4,4
+1153,11-Mar,139,200A,4,PNC Arena,1,4,7308,148,75.5,4,4
+1154,11-Mar,158,200B,3,PNC Arena,1,4,7308,148,75.5,4,4
+1155,11-Mar,169,300A,2,PNC Arena,1,4,7308,148,55.5,4,4
+1156,11-Mar,86,300B,1,PNC Arena,1,4,7308,148,55.5,4,4
+1157,11-Mar,146,Pit,10,Wells Fargo Center,2,6,8354,401,149.25,4,5
+1158,11-Mar,132,100A,8,Wells Fargo Center,2,6,8354,401,149.25,4,5
+1159,11-Mar,129,100B,6,Wells Fargo Center,2,6,8354,401,149.25,4,5
+1160,11-Mar,181,SuiteA,7,Wells Fargo Center,2,6,8354,401,128,4,5
+1161,11-Mar,134,SuiteB,5,Wells Fargo Center,2,6,8354,401,128,4,5
+1162,11-Mar,85,200A,4,Wells Fargo Center,2,6,8354,401,39.4,4,5
+1163,11-Mar,78,200B,3,Wells Fargo Center,2,6,8354,401,39.4,4,5
+1164,11-Mar,96,300A,2,Wells Fargo Center,2,6,8354,401,39.4,4,5
+1165,11-Mar,242,Pit,10,Madison Square Garden,4,5,3112,256,149.5,4,7
+1166,11-Mar,180,Floor,9,Madison Square Garden,4,5,3112,256,149.5,4,7
+1167,11-Mar,238,100A,8,Madison Square Garden,4,5,3112,256,149.5,4,7
+1168,11-Mar,175,100B,6,Madison Square Garden,4,5,3112,256,149.5,4,7
+1169,11-Mar,124,200A,4,Madison Square Garden,4,5,3112,256,99.5,4,7
+1170,11-Mar,176,200B,3,Madison Square Garden,4,5,3112,256,99.5,4,7
+1171,11-Mar,105,300A,2,Madison Square Garden,4,5,3112,256,39.5,4,7
+1172,11-Mar,108,300B,1,Madison Square Garden,4,5,3112,256,39.5,4,7
+1173,11-Mar,153,Pit,10,Prudential Center,5,1,1512,2,149.5,4,1
+1174,11-Mar,231,100A,8,Prudential Center,5,1,1512,2,149.5,4,1
+1175,11-Mar,194,100B,6,Prudential Center,5,1,1512,2,149.5,4,1
+1176,11-Mar,284,SuiteA,7,Prudential Center,5,1,1512,2,149.5,4,1
+1177,11-Mar,164,200A,4,Prudential Center,5,1,1512,2,99.5,4,1
+1178,11-Mar,157,200B,3,Prudential Center,5,1,1512,2,99.5,4,1
+1179,11-Mar,89,300B,1,Prudential Center,5,1,1512,2,39.5,4,1
+1180,11-Mar,187,Pit,10,Capital One Arena,7,3,8515,421,149.5,4,3
+1181,11-Mar,172,100A,8,Capital One Arena,7,3,8515,421,149.5,4,3
+1182,11-Mar,294,100B,6,Capital One Arena,7,3,8515,421,149.5,4,3
+1183,11-Mar,290,SuiteA,7,Capital One Arena,7,3,8515,421,149.5,4,3
+1184,11-Mar,266,SuiteB,5,Capital One Arena,7,3,8515,421,149.5,4,3
+1185,11-Mar,275,200A,4,Capital One Arena,7,3,8515,421,99.5,4,3
+1186,11-Mar,108,200B,3,Capital One Arena,7,3,8515,421,99.5,4,3
+1187,11-Mar,162,300A,2,Capital One Arena,7,3,8515,421,39.5,4,3
+1188,11-Mar,90,300B,1,Capital One Arena,7,3,8515,421,39.5,4,3
+1189,11-Mar,269,Pit,10,TD Garden,8,4,8484,1205,149.5,4,4
+1190,11-Mar,204,100A,8,TD Garden,8,4,8484,1205,145.5,4,4
+1191,11-Mar,210,100B,6,TD Garden,8,4,8484,1205,99.5,4,4
+1192,11-Mar,356,SuiteA,7,TD Garden,8,4,8484,1205,149.5,4,4
+1193,11-Mar,413,200A,4,TD Garden,8,4,8484,1205,59.5,4,4
+1194,11-Mar,99,200B,3,TD Garden,8,4,8484,1205,39.5,4,4
+1195,11-Mar,210,Pit,10,United Center,13,2,8673,585,149.5,4,2
+1196,11-Mar,390,100A,8,United Center,13,2,8673,585,149.5,4,2
+1197,11-Mar,178,100B,6,United Center,13,2,8673,585,149.5,4,2
+1198,11-Mar,400,200A,4,United Center,13,2,8673,585,99.5,4,2
+1199,11-Mar,283,200B,3,United Center,13,2,8673,585,99.5,4,2
+1200,11-Mar,195,300A,2,United Center,13,2,8673,585,39.5,4,2
+1201,11-Mar,85,300B,1,United Center,13,2,8673,585,39.5,4,2
+1202,11-Mar,154,Pit,10,Bridgestone Arena,17,6,8295,916,123,4,5
+1203,11-Mar,148,100A,8,Bridgestone Arena,17,6,8295,916,73,4,5
+1204,11-Mar,392,100B,6,Bridgestone Arena,17,6,8295,916,73,4,5
+1205,11-Mar,331,200A,4,Bridgestone Arena,17,6,8295,916,53.5,4,5
+1206,11-Mar,95,200B,3,Bridgestone Arena,17,6,8295,916,53.5,4,5
+1207,11-Mar,155,300A,2,Bridgestone Arena,17,6,8295,916,34.4,4,5
+1208,11-Mar,90,300B,1,Bridgestone Arena,17,6,8295,916,34.4,4,5
+1209,11-Mar,235,Pit,10,The Forum A,23,7,2643,2162,149.5,4,6
+1210,11-Mar,518,100A,8,The Forum A,23,7,2643,2162,149.5,4,6
+1211,11-Mar,350,100B,6,The Forum A,23,7,2643,2162,149.5,4,6
+1212,11-Mar,217,200A,4,The Forum A,23,7,2643,2162,59.5,4,6
+1213,11-Mar,176,200B,3,The Forum A,23,7,2643,2162,39.5,4,6
+1214,11-Mar,274,Pit,10,The Forum B,24,5,2771,2162,149.5,4,7
+1215,11-Mar,524,100A,8,The Forum B,24,5,2771,2162,149.5,4,7
+1216,11-Mar,350,100B,6,The Forum B,24,5,2771,2162,149.5,4,7
+1217,11-Mar,311,200A,4,The Forum B,24,5,2771,2162,59.5,4,7
+1218,11-Mar,200,200B,3,The Forum B,24,5,2771,2162,39.5,4,7
+1219,11-Mar,212,Pit,10,The Forum C,25,2,2935,2162,149.5,4,2
+1220,11-Mar,545,100A,8,The Forum C,25,2,2935,2162,149.5,4,2
+1221,11-Mar,335,100B,6,The Forum C,25,2,2935,2162,149.5,4,2
+1222,11-Mar,202,200A,4,The Forum C,25,2,2935,2162,59.5,4,2
+1223,11-Mar,174,200B,3,The Forum C,25,2,2935,2162,39.5,4,2
+1224,12-Mar,252,Pit,10,PNC Arena,0,4,7430,148,125.5,5,4
+1225,12-Mar,143,100A,8,PNC Arena,0,4,7430,148,125.5,5,4
+1226,12-Mar,114,100B,6,PNC Arena,0,4,7430,148,125.5,5,4
+1227,12-Mar,124,200A,4,PNC Arena,0,4,7430,148,75.5,5,4
+1228,12-Mar,100,200B,3,PNC Arena,0,4,7430,148,75.5,5,4
+1229,12-Mar,112,300A,2,PNC Arena,0,4,7430,148,55.5,5,4
+1230,12-Mar,79,300B,1,PNC Arena,0,4,7430,148,55.5,5,4
+1231,12-Mar,158,Pit,10,Wells Fargo Center,1,6,8442,401,149.25,5,5
+1232,12-Mar,143,100A,8,Wells Fargo Center,1,6,8442,401,149.25,5,5
+1233,12-Mar,111,100B,6,Wells Fargo Center,1,6,8442,401,149.25,5,5
+1234,12-Mar,149,SuiteA,7,Wells Fargo Center,1,6,8442,401,128,5,5
+1235,12-Mar,153,SuiteB,5,Wells Fargo Center,1,6,8442,401,128,5,5
+1236,12-Mar,79,200A,4,Wells Fargo Center,1,6,8442,401,39.4,5,5
+1237,12-Mar,74,200B,3,Wells Fargo Center,1,6,8442,401,39.4,5,5
+1238,12-Mar,265,300A,2,Wells Fargo Center,1,6,8442,401,39.4,5,5
+1239,12-Mar,222,Pit,10,Madison Square Garden,3,5,3156,256,149.5,5,7
+1240,12-Mar,399,Floor,9,Madison Square Garden,3,5,3156,256,149.5,5,7
+1241,12-Mar,310,100A,8,Madison Square Garden,3,5,3156,256,149.5,5,7
+1242,12-Mar,133,100B,6,Madison Square Garden,3,5,3156,256,149.5,5,7
+1243,12-Mar,128,200A,4,Madison Square Garden,3,5,3156,256,99.5,5,7
+1244,12-Mar,95,200B,3,Madison Square Garden,3,5,3156,256,99.5,5,7
+1245,12-Mar,69,300A,2,Madison Square Garden,3,5,3156,256,39.5,5,7
+1246,12-Mar,101,300B,1,Madison Square Garden,3,5,3156,256,39.5,5,7
+1247,12-Mar,170,Pit,10,Prudential Center,4,1,1535,2,149.5,5,1
+1248,12-Mar,184,100A,8,Prudential Center,4,1,1535,2,149.5,5,1
+1249,12-Mar,173,100B,6,Prudential Center,4,1,1535,2,149.5,5,1
+1250,12-Mar,267,SuiteA,7,Prudential Center,4,1,1535,2,149.5,5,1
+1251,12-Mar,142,200A,4,Prudential Center,4,1,1535,2,99.5,5,1
+1252,12-Mar,139,200B,3,Prudential Center,4,1,1535,2,99.5,5,1
+1253,12-Mar,96,300A,2,Prudential Center,4,1,1535,2,39.5,5,1
+1254,12-Mar,81,300B,1,Prudential Center,4,1,1535,2,39.5,5,1
+1255,12-Mar,186,Pit,10,Capital One Arena,6,3,8535,421,149.5,5,3
+1256,12-Mar,158,100A,8,Capital One Arena,6,3,8535,421,149.5,5,3
+1257,12-Mar,300,100B,6,Capital One Arena,6,3,8535,421,149.5,5,3
+1258,12-Mar,236,SuiteA,7,Capital One Arena,6,3,8535,421,149.5,5,3
+1259,12-Mar,246,SuiteB,5,Capital One Arena,6,3,8535,421,149.5,5,3
+1260,12-Mar,284,200A,4,Capital One Arena,6,3,8535,421,99.5,5,3
+1261,12-Mar,108,200B,3,Capital One Arena,6,3,8535,421,99.5,5,3
+1262,12-Mar,154,300A,2,Capital One Arena,6,3,8535,421,39.5,5,3
+1263,12-Mar,89,300B,1,Capital One Arena,6,3,8535,421,39.5,5,3
+1264,12-Mar,204,Pit,10,TD Garden,7,4,8553,1205,149.5,5,4
+1265,12-Mar,175,100A,8,TD Garden,7,4,8553,1205,145.5,5,4
+1266,12-Mar,194,100B,6,TD Garden,7,4,8553,1205,99.5,5,4
+1267,12-Mar,356,SuiteA,7,TD Garden,7,4,8553,1205,149.5,5,4
+1268,12-Mar,396,200A,4,TD Garden,7,4,8553,1205,59.5,5,4
+1269,12-Mar,90,200B,3,TD Garden,7,4,8553,1205,39.5,5,4
+1270,12-Mar,210,Pit,10,United Center,12,2,8759,585,149.5,5,2
+1271,12-Mar,373,100A,8,United Center,12,2,8759,585,149.5,5,2
+1272,12-Mar,163,100B,6,United Center,12,2,8759,585,149.5,5,2
+1273,12-Mar,378,200A,4,United Center,12,2,8759,585,99.5,5,2
+1274,12-Mar,173,200B,3,United Center,12,2,8759,585,99.5,5,2
+1275,12-Mar,195,300A,2,United Center,12,2,8759,585,39.5,5,2
+1276,12-Mar,53,300B,1,United Center,12,2,8759,585,39.5,5,2
+1277,12-Mar,148,Pit,10,Bridgestone Arena,16,6,8328,916,123,5,5
+1278,12-Mar,141,100A,8,Bridgestone Arena,16,6,8328,916,73,5,5
+1279,12-Mar,395,100B,6,Bridgestone Arena,16,6,8328,916,73,5,5
+1280,12-Mar,302,200A,4,Bridgestone Arena,16,6,8328,916,53.5,5,5
+1281,12-Mar,90,200B,3,Bridgestone Arena,16,6,8328,916,53.5,5,5
+1282,12-Mar,135,300A,2,Bridgestone Arena,16,6,8328,916,34.4,5,5
+1283,12-Mar,87,300B,1,Bridgestone Arena,16,6,8328,916,34.4,5,5
+1284,12-Mar,189,Pit,10,The Forum A,22,7,2683,2162,149.5,5,6
+1285,12-Mar,444,100A,8,The Forum A,22,7,2683,2162,149.5,5,6
+1286,12-Mar,163,100B,6,The Forum A,22,7,2683,2162,149.5,5,6
+1287,12-Mar,195,200A,4,The Forum A,22,7,2683,2162,59.5,5,6
+1288,12-Mar,92,200B,3,The Forum A,22,7,2683,2162,39.5,5,6
+1289,12-Mar,195,Pit,10,The Forum B,23,5,2780,2162,149.5,5,7
+1290,12-Mar,651,100A,8,The Forum B,23,5,2780,2162,149.5,5,7
+1291,12-Mar,137,100B,6,The Forum B,23,5,2780,2162,149.5,5,7
+1292,12-Mar,181,200A,4,The Forum B,23,5,2780,2162,59.5,5,7
+1293,12-Mar,90,200B,3,The Forum B,23,5,2780,2162,39.5,5,7
+1294,12-Mar,178,Pit,10,The Forum C,24,2,2940,2162,149.5,5,2
+1295,12-Mar,503,100A,8,The Forum C,24,2,2940,2162,149.5,5,2
+1296,12-Mar,170,100B,6,The Forum C,24,2,2940,2162,149.5,5,2
+1297,12-Mar,190,200A,4,The Forum C,24,2,2940,2162,59.5,5,2
+1298,12-Mar,90,200B,3,The Forum C,24,2,2940,2162,39.5,5,2
