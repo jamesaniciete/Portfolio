@@ -18,5 +18,14 @@ Access Project:
   CIS208_F2019_Data_Aniciete.accdb - Access database
   CIS208_F2019_Project_Aniciete - Presentation of the database
  
-SQL Project:
-  SQL Project.docx - Final exam project with snippets of code and corresponding output.
+SQL Projects:
+  Final exam:
+    SQL Project.docx - Final exam project with snippets of code and corresponding output.
+  
+  Sedgwick Project:
+    CIS 143 SPECIAL PROJECT SEDGWICK.docx - Responses to project questions with snapshots of code and resulting output
+    SEDGWICK_COURSE - Table of course information
+    SEDGWICK_INSTRUCTOR.sql - Table of instructor information
+    SEDGWICK_STUDENT.sql - Table of student information.
+    SedgwickProject.sql - Project SQL code.
+    
