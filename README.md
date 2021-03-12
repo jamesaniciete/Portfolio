@@ -1,5 +1,5 @@
 # Portfolio
-Hi there! This is a portfolio containing a sample of my past project work. If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for said project.  
+Hi there! This is a portfolio containing a sample of my past project work. If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for a given project.  
 
 The files are grouped as follows: Billie Eilish Project followed by projects ordered software in alphabetical order.  
   
