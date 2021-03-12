@@ -1,7 +1,7 @@
 # Portfolio
 Hi there! This is a portfolio containing a sample of my past project work. If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for said project.  
 
-The files are grouped as follows:  
+The files are grouped as follows: Billie Eilish Project followed by projects ordered software in alphabetical order.  
   
 Predictive Modeling Project:
   - Billie Eilish Project (Excel/R/SAS):
@@ -11,28 +11,11 @@ Predictive Modeling Project:
       - BillieEilish.R - R code
       - BillieEilish.sas - equivalent SAS code for some parts in addition to stepwise selection models
 
-SAS Project:
-  - 2-Way ANOVA model: Studied the impact of oil pattern and the effects of a bowler on the score after a game of bowling by using a mixed model where oil pattern is fixed and bowler is random.
-      - wpba2009_v2.xlsx - Dataset
-      - Project 2.docx - Analysis of the dataset
-      - 481 Project 2.sas - SAS code
-  
 Access Project: 
-  - Personal Concert Database: Created a personal concert database in Access with custom forms & reports, a macro to create a calculated field, and a form to locate concert venues with options for filtering by venue(s) and choosing a report view.
+  - Personal Concert Database: Created a personal concert database in Access with custom forms & reports, a macro to create a calculated field, and a form to locate concert venues with options for filtering by venue(s) and choosing a report view. A little Visual Basic used.
       - CIS208_F2019_Data_Aniciete.accdb - Access database
       - CIS208_F2019_Project_Aniciete - Presentation of the database
- 
-SQL Projects:
-  - Final Exam:
-      - SQL Project.docx - Final exam project with snippets of code and corresponding output.
-      - The50states.sql - Source code
-  - Sedgwick Project:
-      - CIS 143 SPECIAL PROJECT SEDGWICK.docx - Responses to project questions with snapshots of code and resulting output
-      - SEDGWICK_COURSE - Table of course information
-      - SEDGWICK_INSTRUCTOR.sql - Table of instructor information
-      - SEDGWICK_STUDENT.sql - Table of student information.
-      - SedgwickProject.sql - Project SQL code.
-    
+
 Python Projects:
   - Lab 5: Pick 3 simulator with a Fireball option
       - CSC 157 LAB 5.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
@@ -60,5 +43,27 @@ Python Projects:
   - Lab 16: Examined an application that simulates business intelligence for a music store.
       - CSC 157 LAB 16.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       - CSC_157_Lab_16.py - Source code
+ 
+SAS Projects:
+  - Multiple Regression: Analyzed a multiple regression model’s collinearity and assumptions. Then, transformed via Box-Cox Transformation and implemented backward selection.
+      - 481 Project 1.docx - Project report with analysis and SAS output snapshots along with SAS source code
+      - Dataset_175-348.xlsx - Dataset
+  - 2-Way ANOVA model: Studied the impact of oil pattern and the effects of a bowler on the score after a game of bowling by using a mixed model where oil pattern is fixed and bowler is random.
+      - wpba2009_v2.xlsx - Dataset
+      - Project 2.docx - Analysis of the dataset
+      - 481 Project 2.sas - SAS code
+
+SQL Projects:
+  - Final Exam:
+      - SQL Project.docx - Final exam project with snippets of code and corresponding output.
+      - The50states.sql - Source code
+  - Sedgwick Project:
+      - CIS 143 SPECIAL PROJECT SEDGWICK.docx - Responses to project questions with snapshots of code and resulting output
+      - SEDGWICK_COURSE - Table of course information
+      - SEDGWICK_INSTRUCTOR.sql - Table of instructor information
+      - SEDGWICK_STUDENT.sql - Table of student information.
+      - SedgwickProject.sql - Project SQL code.
+    
+
       
     
