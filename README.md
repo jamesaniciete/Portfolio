@@ -66,6 +66,17 @@ SQL Projects:
       - SEDGWICK_STUDENT.sql - Table of student information.
       - SedgwickProject.sql - Project SQL code.
     
+ Visual Basic Projects:
+  - Access/Excel -- SQL-based Report Generation: Display reports in Access based on user input for either (1) the first letter in a person's last name or (2) the last updated date, using SQL select statements, along with report display options. Also includes some Excel VBA code that uses If...Then...Elsif...Else satements and Select Case statements.
+      - Aniciete_CIS208_Assignment 8_2019Fall.doc - Questions along with code descriptions and responses.
+      - TripHW8.accdb - Corresponding Access file with VBA modules.
+      - Assignment8.xls - Corresponding Excel file with VBA modules.
+  - Excel-- Simple and Compound Interest calculations displayed in Excel: Takes user-inputted values for PV, duration, type of interest, and interest rate and computes the future value. Then, it displays all values on the active sheet.
+      - W7 Discussion.docx - Corresponding code and description are highlighted.
+      - W7 Discussion.xlsm - Excel file with the corresponding module named Post.
+  - Girl Scout Cookie Ordering Module: Module in a Word document that replicates ordering girl scout cookies. Uses labels to make exiting the ordering screen without ordering cookies harder to replicate the aggressiveness of some girl scouts.
+      W9 Discussion.doc - View the highlighted text in the document and the module named InitialPost.
 
+      
       
     
