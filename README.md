@@ -1,6 +1,6 @@
 # Portfolio
 Hi there! This is a portfolio containing a sample of my past project work.  
-Software used: Access, Excel, Python, R, SAS, SQL, and Visual Basic.  
+Software used: Access, Excel, Python, R, SAS, SQL (Oracle SQL Developer), and Visual Basic.  
 If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for a given project.  
 
 The files are grouped as follows: Billie Eilish Project followed by projects ordered software in alphabetical order.  
