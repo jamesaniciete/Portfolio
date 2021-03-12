@@ -1,4 +1,8 @@
-contactlist = [['Aniciete, James', '123-4567'],
+# Modifications from original: 
+    # James Aniciete was added but removed to follow snapshot directions
+    # Lebron ==> LeBron
+    # Janet Jackson deleted
+contactlist = [
 ['James, LeBron', '457-6223'],
 ['Manfredi, Ralph', '872-2221'],
 ['Robbins, Tony', '329-2310'],
