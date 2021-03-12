@@ -29,3 +29,8 @@ SQL Projects:
     SEDGWICK_STUDENT.sql - Table of student information.
     SedgwickProject.sql - Project SQL code.
     
+Python:
+  Lab 5: Pick 3 simulator with a Fireball option
+    CSC 157 Lab 5.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
+    Lottery.py - Code
+  
