@@ -47,7 +47,7 @@ Python Projects:
       - CSC_157_Lab_16.py - Source code
  
  R Project:
-  - Analyzing widgets data: Made a R-Markdown report, analyzing widgets data. Worked with matrices, data frames, random sampling, outliers, and customized plots (histograms, boxplots, Q-Q plots, ggplots, and interaction plots.
+  - Analyzing widgets data: Made a R-Markdown report, analyzing widgets data. Worked with matrices, data frames, random sampling, outliers, and customized plots (histograms, boxplots, Q-Q plots, ggplots, and interaction plots).
       - Project 4-5 Milestone 2.Rmd - Corresponding R-Markdown file.
       - Project_4-5_Milestone_2.html.zip - Corresponding HTML file.
  
