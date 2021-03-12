@@ -80,7 +80,7 @@ SQL Projects:
       - W7 Discussion.docx - Corresponding code and description are highlighted.
       - W7 Discussion.xlsm - Excel file with the corresponding module named Post.
   - Girl Scout Cookie Ordering Module: Module in a Word document that replicates ordering girl scout cookies. Uses labels to make exiting the ordering screen without ordering cookies harder to replicate the aggressiveness of some girl scouts.
-      W9 Discussion.doc - View the highlighted text in the document and the module named InitialPost.
+      - W9 Discussion.doc - View the highlighted text in the document and the module named InitialPost.
 
       
       
