@@ -1,5 +1,7 @@
 # Portfolio
-Hi there! This is a portfolio containing a sample of my past project work. If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for a given project.  
+Hi there! This is a portfolio containing a sample of my past project work.  
+Software used: Access, Excel, Python, R, SAS, SQL, and Visual Basic.  
+If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for a given project.  
 
 The files are grouped as follows: Billie Eilish Project followed by projects ordered software in alphabetical order.  
   
@@ -11,10 +13,10 @@ Predictive Modeling Project:
       - BillieEilish.R - R code
       - BillieEilish.sas - equivalent SAS code for some parts in addition to stepwise selection models
 
-Access Project: 
-  - Personal Concert Database: Created a personal concert database in Access with custom forms & reports, a macro to create a calculated field, and a form to locate concert venues with options for filtering by venue(s) and choosing a report view. A little Visual Basic used.
+Access/Visual Basic Project: 
+  - Personal Concert Database: Created a personal concert database in Access with custom forms & reports, a macro to create a calculated field, and a form to locate concert venues with options for filtering by venue(s) and choosing a report view. 
       - CIS208_F2019_Data_Aniciete.accdb - Access database
-      - CIS208_F2019_Project_Aniciete - Presentation of the database
+      - CIS208_F2019_Project_Aniciete.docx - Project report including business case, pseudocode, VBA code, and testing.
 
 Python Projects:
   - Lab 5: Pick 3 simulator with a Fireball option
