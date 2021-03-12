@@ -1,7 +1,8 @@
 # Portfolio
-Portfolio containing a sample of project work. /n
+Portfolio containing a sample of project work.  
 
-File grouping: /n
+File grouping:  
+  
 Predictive Modeling Project:
   - Billie Eilish Project (Excel/R/SAS):
       - BillieEilish_OriginalDataset.xlsx  - table definition, original dataset, other tables, and PivotTable and PivotChart
