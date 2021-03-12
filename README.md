@@ -1,5 +1,5 @@
 # Portfolio
-Hi there! This is a portfolio containing a sample of my past project work.  
+Hi there! This is a portfolio containing a sample of my past project work. If interested in any, I suggest taking a look at the corresponding Word document(s) and/or PowerPoint for said project.  
 
 The files are grouped as follows:  
   
