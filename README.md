@@ -36,7 +36,7 @@ Python:
   - Lab 7: used a Student class, various student objects, logic, and files to process students’ grades
       CSC 157 LAB 7.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       student.py - Source code
-    data.txt - Data used by the code.
+      data.txt - Data used by the code.
   - Lab 8: Modified a GUI program (tkContacts.py) that will allow one to add, update, delete, and load contacts from a list defined in another py file (contacts.py).
       CSC 157 Lab 8.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       tkContacts.py - Source code
@@ -52,6 +52,7 @@ Python:
       CSC 157 LAB 15.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       myDatabasefile.py - Source code
       tkContacts_LAB15.py - Reconfigured version of Lab 8 source code to accomodate a SQLite database. May need to rename to tkContacts.py after downloading or adjust code to account for the different file name.
+      contacts.py - Contact list data.
   - Lab 16: Examined an application that simulates business intelligence for a music store.
       CSC 157 LAB 16.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       CSC_157_Lab_16.py - Source code
