@@ -46,6 +46,11 @@ Python Projects:
       - CSC 157 LAB 16.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       - CSC_157_Lab_16.py - Source code
  
+ R Project:
+  - Analyzing widgets data: Made a R-Markdown report, analyzing widgets data. Worked with matrices, data frames, random sampling, outliers, and customized plots (histograms, boxplots, Q-Q plots, ggplots, and interaction plots.
+      - Project 4-5 Milestone 2.Rmd - Corresponding R-Markdown file.
+      - Project_4-5_Milestone_2.html.zip - Corresponding HTML file.
+ 
 SAS Projects:
   - Multiple Regression: Analyzed a multiple regression model’s collinearity and assumptions based on house pricing data. Then, transformed via Box-Cox Transformation and implemented backward selection.
       - 481 Project 1.docx - Project report with analysis and SAS output snapshots along with SAS source code
