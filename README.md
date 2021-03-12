@@ -11,7 +11,7 @@ Predictive Modeling Project:
       - BillieEilish.R - R code
       - BillieEilish.sas - equivalent SAS code for some parts in addition to stepwise selection models
 
-SAS Projects:
+SAS Project:
   - 2-Way ANOVA model: Studied the impact of oil pattern and the effects of a bowler on the score after a game of bowling by using a mixed model where oil pattern is fixed and bowler is random.
       - wpba2009_v2.xlsx - Dataset
       - Project 2.docx - Analysis of the dataset
@@ -33,7 +33,7 @@ SQL Projects:
       - SEDGWICK_STUDENT.sql - Table of student information.
       - SedgwickProject.sql - Project SQL code.
     
-Python:
+Python Projects:
   - Lab 5: Pick 3 simulator with a Fireball option
       - CSC 157 LAB 5.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
       - Lottery.py - Source code
