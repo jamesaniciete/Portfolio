@@ -1,7 +1,7 @@
 # Portfolio
-Hi there! This is a portfolio containing a sample of my past project work.\
+Hi there! This is a portfolio containing a sample of my past project work.  
 
-The files are grouped as follows\\
+The files are grouped as follows:  
   
 Predictive Modeling Project:
   - Billie Eilish Project (Excel/R/SAS):
