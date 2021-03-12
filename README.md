@@ -33,4 +33,7 @@ Python:
   Lab 5: Pick 3 simulator with a Fireball option
     CSC 157 Lab 5.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
     Lottery.py - Code
-  
+  Lab 7: used a Student class, various student objects, logic, and files to process students’ grades
+    CSC 157 Lab 7.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
+    student.py - Code
+    data.txt - Data used by the code.
