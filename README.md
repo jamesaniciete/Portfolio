@@ -18,6 +18,11 @@ Access/Visual Basic Project:
       - CIS208_F2019_Data_Aniciete.accdb - Access database
       - CIS208_F2019_Project_Aniciete.docx - Project report including business case, pseudocode, VBA code, and testing.
 
+LaTex - Sample of Mathematical Writing:
+  - The Ultra Deluxe Set Essay: Essay about the Ultra Deluxe Set, a set of infinitely many unpainted cubes, where the n-th block has side length 1/sqrt(n). Analyzes convergence/divergence of the set, the ability to paint said set with ordinary vs. a special paint with regards to the set's volume, and an examination of Gabriel's Horn.
+    - Essay 2 Final Draft.pdf - PDF file of essay.
+    - Essay 2 Final Draft.tex - LaTex file to produce the essay.
+
 Python Projects:
   - Lab 5: Pick 3 simulator with a Fireball option
       - CSC 157 LAB 5.docx - Responses to lab assignment questions, code snippets, and corresponding output snapshots.
