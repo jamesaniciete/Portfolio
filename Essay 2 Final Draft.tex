@@ -1,0 +1,112 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage[margin=1.0in]{geometry}
+\usepackage{amsfonts} % for math bb
+\usepackage{amssymb} % for subsetneq
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{graphicx}
+\graphicspath{{" ~/Desktop/MATH 300"}}
+\title{Essay 2 Final Draft: The Ultra Deluxe Set}
+\author{James Aniciete}
+\date{\today}
+\renewcommand{\baselinestretch}{1.8}
+
+\begin{document}
+\maketitle
+In the first essay, we discussed the Blocks Unlimited store and two of its infinite sets of unpainted toy blocks, the Deluxe Set and the Starter Set. Both of these sets were shown to have some counter-intuitive properties. For the sake of this essay, we will recall the side lengths for the $n^{th}$ block, the stacked heights, and surface areas of the two sets. In the Deluxe Set, the $n^{th}$ block had side length $\frac1n$ ft. The Deluxe Set had an infinite stacked height and a surface area of $\pi^2$, which is approximately 9.87 ${ft}^2$. In the Starter Set, the  $n^{th}$ block had side length $\frac{1}{2^{n-1}}$ ft.The Starter Set had a stacked height of 2 ft. and a surface area of 8 ${ft}^2$ [See 1]. This essay will focus on another set of infinitely many unpainted cubes, the Ultra Deluxe Set. In the Ultra Deluxe Set, the $n^{th}$ block has side length $\frac{1}{\sqrt{n}}$. 
+
+The first thing that we are going to prove is that the Deluxe Set is a subset of the Ultra Deluxe Set by comparing the blocks of each set. The Deluxe Set contains blocks with the following side lengths in feet: 1, $\frac12$, $\frac13$, $\ldots$,  $\frac1n$, $\ldots$ . Whereas, the Ultra Deluxe Set will contain blocks with the following side lengths in feet: 1, $\frac{1}{\sqrt{2}}$, $\frac{1}{\sqrt{3}}$, $\ldots$, $\frac{1}{\sqrt{n}}$, $\ldots$ . Note that the denominators of the side lengths of the Ultra Deluxe Set are the square roots of the natural numbers. Consider the perfect squares of each natural number. Since the product of two natural numbers is a natural number, all of the perfect squares of the natural numbers will be in the set of natural numbers. However, in the Ultra Deluxe Set, these perfect squares will be in the denominator and have their square roots taken, so they will equal their respective natural number and correspond to the side lengths of each block in the Deluxe Set. Therefore, the Deluxe Set is a subset of the Ultra Deluxe Set. Since the Deluxe Set has an infinite stacked height and is a subset of the Ultra Deluxe Set, it follows that the Ultra Deluxe Set has an infinite stacked height as well. Another way to show that the stacked height of the Ultra Deluxe Set is infinite is to use the p-series test. The p-series test states: if $k>0$ then $\sum_{n=k}^{\infty}\frac{1}{n^p}$ converges if $p>1$ and diverges if $p \leq 1$ [See 2]. In this scenario, we will have the series $\sum_{n=1}^{\infty}\frac{1}{\sqrt{n}}$. Since p = $\frac12 \ngtr1$, the series will diverge by the p-series test, which means the Ultra Deluxe Set will have an infinite stacked height.
+
+In the first essay, we discussed the special paint that the Blocks Unlimited store sells by the square foot. This paint is special in that it has zero thickness, so it can be used to paint the blocks that the store sells. It was shown that the Deluxe Set can be painted with approximately 9.87  ${ft}^2$ of the special paint and the Starter Set can be painted with 8  ${ft}^2$ of the special paint [See 1]. Now, we will check if the Ultra Deluxe Set can be painted with the special paint. The surface area of the Ultra Deluxe Set will be equal to $\sum_{n=1}^{\infty}\frac{6}{n}$. The 6 comes from the 6 sides of each cube. The $\frac1n$ comes from calculating the area of each side by multiplying the length and height of each side together, which are both $\frac{1}{\sqrt{n}}$. Using the p-series test with p = $1 \ngtr1$, we can conclude that this sum is divergent and goes to infinity, so the Ultra Deluxe Set has an infinite surface area and thus cannot be painted with the Blocks Unlimited special paint [See 2]. Another way to see that the sum is divergent is to factor out the 6 from the sum and consider the remaining $\sum_{n=1}^{\infty}\frac1n$, which was shown to go to infinity in the first essay when determining the stacked height of the Deluxe Set [See 1]. Thus, the Ultra Deluxe Set cannot be painted with a finite amount of special paint.
+
+Next, we will consider filling the Ultra Deluxe Set with ordinary paint if the blocks are hollow. The volume of the Ultra Deluxe Set is equal to $\sum_{n=1}^{\infty}\frac{1}{n^{\frac32}}$. This comes from multiplying the length, width, and height of each side together, which are all $\frac{1}{\sqrt{n}}$. Using the p-series test, we have $p=\frac32>1$, so the summation converges [See 2]. This means that $\sum_{n=1}^{\infty}\frac{1}{n^{\frac32}}<+\infty$ or that the volume of the Ultra Deluxe Set is finite. We will now show that the Ultra Deluxe Set's volume is less than 3 by showing  $\sum_{n=2}^{\infty}\frac1{x^\frac32}<\int_1^{\infty}\frac1{x^\frac32}dx$, and so  $\sum_{n=1}^{\infty}\frac1{x^\frac32}<1+\int_1^{\infty}\frac1{x^\frac32}dx$ [See 3]. First, look at the graph of $y=\frac1{x^\frac32}$, which was created using desmos.com.
+
+\begin{figure}[H]
+	\caption{Graph of $y=\frac1{x^\frac32}$}
+	\includegraphics[scale=.4]{figureone}
+\end{figure}
+
+Figure 1 shows that $\sum_{n=2}^{\infty}\frac1{x^\frac32}$ should be less than $\int_1^{\infty}\frac1{x^\frac32}dx$. Evaluate the integral:
+\[
+	\int_1^{\infty}\frac1{x^\frac32}dx=-2x|_1^\infty=-2(0-1)=2.
+\]
+This means that $\sum_{n=2}^{\infty}\frac1{x^\frac32}<\int_1^{\infty}\frac1{x^\frac32}dx=2$. Since the term corresponding to $n=1$ in the summation is 1, adding 1 to both sides of the previous inequality will give us: $\sum_{n=1}^{\infty}\frac1{x^\frac32}=1+\sum_{n=2}^{\infty}\frac1{x^\frac32}<1+2=3$. Notice that we now have $\sum_{n=1}^{\infty}\frac{1}{x^\frac32}<3$ as desired. Thus, the volume of the Ultra Deluxe Set is less than 3 $ft^3$ and can be filled by a finite amount of ordinary paint.
+
+Moving on, we are going to examine Gabriel's Horn, the infinite horn generated by revolving the graph of $y=\frac1x$ from $x=1$ to $\infty$ about the x-axis. Its graph is shown below [See 4]:
+
+\begin{figure}[H]
+	\caption{Graph of Gabriel's Horn} 
+	\includegraphics[width=15cm]{figuretwo}\centering
+\end{figure}
+
+We will now examine the volume and surface area of Gabriel's Horn. First, we will calculate the volume using the formula: $V=\pi\int_a^{b}{f(x)^2}dx$ [See 5]. To find the volume of Gabriel's Horn, we will solve $\pi\int_1^{\infty}{(\frac1x)^2}dx$:
+\[
+	V=\pi\int_1^{\infty}{(\frac1x)^2}dx=\pi(-\frac1x)|_1^\infty=\pi(0-(-1))=\pi.
+\]
+The surface area of Gabriel's Horn can be calculated by using the formula: 
+\newline $SA = 2\pi\int_1^{\infty}f(x){\sqrt{1+[f'(x)]^2}}dx$ [See 6]. Here, we have $SA = 2\pi\int_1^{\infty}{\frac1x}\sqrt{(1+(\frac{-1}{x^2})^2}dx$. Since $\sqrt{(1+(\frac{-1}{x^2})^2}>1$, we know that  
+\[
+	SA = 2\pi\int_1^{\infty}{\frac1x}\sqrt{(1+(\frac{-1}{x^2})^2}dx\geq2\pi\int_1^{\infty}{\frac1x}dx=2\pi(lnx|_1^{\infty})=2\pi(ln(\infty)-ln1)=\infty.
+\]
+Thus, Gabriel's Horn has an infinite surface area. Since Gabriel's Horn has a finite volume of $\pi$ $ft^3$ and an infinite surface area, it is somewhat like the Ultra Deluxe Set. 
+
+Another infinite horn is the horn generated by revolving the graph of $y=\frac1{\sqrt{x}}$ from $x=1$ to $\infty$ about the x-axis. Using the same equations as above, we will calculate this horn's volume and surface area if possible. For volume, we have:
+\[
+	V=\pi\int_1^{\infty}(\frac{1}{\sqrt{x}})^{2}dx=\pi(ln(x))|_1^{\infty}=\pi(ln(\infty)-(-2))=+\infty.
+\]
+As for surface area, we have:
+\[
+	SA=2\pi\int_1^{\infty}{\frac{1}{\sqrt{x}}}{\sqrt{1+(-2x^{\frac{-3}{2}})^2}}dx
+\]
+Since $\sqrt{1+(-2x^{\frac{-3}{2}})^2}>1$, we have:
+\[
+	SA=2\pi\int_1^{\infty}{\frac{1}{\sqrt{x}}}{\sqrt{1+(2x^\frac{-3}{2})^2}}dx\geq2\pi\int_1^{\infty}{\frac{1}{\sqrt{x}}}dx=2\pi(2\sqrt{x}|_1^{\infty})=2\pi(2\sqrt{\infty}-(2(1)))=+\infty
+\]
+Therefore, the horn generated by revolving the graph of $y=\frac1{\sqrt{x}}$ from $x=1$ to $\infty$ about the x-axis has an infinite volume and an infinite surface area.
+
+In conclusion, we introduced the Ultra Deluxe Set and showed that the Deluxe Set was a subset of the Ultra Deluxe Set, which implies that the Ultra Deluxe Set's stacked height is infinite. Then, we showed that the Ultra Deluxe Set has an infinite surface area, so it cannot be painted with Blocks Unlimited's special paint. However, it was shown to have a finite volume of less than 3 $ft^3$, so it could be filled with ordinary paint. Lastly, we looked at Gabriel's Horn and the horn generated by revolving the graph of $y=\frac1{\sqrt{x}}$ from $x=1$ to $\infty$ about the x-axis. Gabriel's Horn was shown showing to have a finite volume and an infinite surface area while the other horn was shown to have both an infinite volume and an infinite surface area.
+
+\newpage
+{\Large References}\\
+\rule{5in}{.01in}
+
+\begin{enumerate}
+\item Aniciete, James. {\em Essay 1 Final Draft: Blocks Unlimited}.\\
+Retrieved March 14, 2018.\\
+\item Integral Test.\\
+In {\em Lamar University Mathematics}.\\
+Retrieved March 14, 2018, from \\
+\url{http://tutorial.math.lamar.edu/Classes/CalcII/IntegralTest.aspx}
+\item Thulin, Fred. {\em Some Mathematics for Essay 2.}\\
+In {\em Math 300 Writing for Mathematics 2018 spring}.\\
+Retrieved March 14, 2018, from\\
+\url{http://homepages.math.uic.edu/~fthulin/essay2math.pdf}
+\item HOW TO FIND THE VOLUME AND SURFACE AREA OF GABRIEL'S HORN.\\
+In {\em dummies}\\
+Retrieved March 14,2018, from\\
+\url{http://www.dummies.com/education/math/calculus/how-to-find-the-volume-and-surface-area-of-gabriels-horn/}
+\item Solid of a Revolution - Finding Volume by Rotation.\\
+In {\em Wyzant}.\\
+Retrieved March 14, 2018, from\\
+\url{https://www.wyzant.com/resources/lessons/math/calculus/integration/finding_volume}
+\item Surface of Revolution.\\
+In {\em MathWorld -- A Wolfram Web Resource}.\\
+Retrieved March 14, 2018, from\\
+\url{http://mathworld.wolfram.com/SurfaceofRevolution.html}
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
