@@ -81,9 +81,6 @@ SQL Projects:
       - Aniciete_CIS208_Assignment 8_2019Fall.doc - Questions along with code descriptions and responses.
       - TripHW8.accdb - Corresponding Access file with VBA modules.
       - Assignment8.xls - Corresponding Excel file with VBA modules.
-  - Access -- Created a personal concert database in Access with custom forms/reports, a macro to create a calculated field, and a form to locate concert venues with options for filtering by venue(s) and choosing a report view.
-      - CIS208_F2019_Project_Aniciete.docx - Project summary including business case, pseudocode, VBA code, and testing.
-      - CIS208_F2019_Data_Aniciete.accdb - Corresponding Access file with VBA modules.
   - Excel-- Simple and Compound Interest calculations displayed in Excel: Takes user-inputted values for PV, duration, type of interest, and interest rate and computes the future value. Then, it displays all values on the active sheet.
       - W7 Discussion.docx - Corresponding code and description are highlighted.
       - W7 Discussion.xlsm - Excel file with the corresponding module named Post.
