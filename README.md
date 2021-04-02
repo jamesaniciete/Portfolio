@@ -81,7 +81,7 @@ SQL Projects:
       - Aniciete_CIS208_Assignment 8_2019Fall.doc - Questions along with code descriptions and responses
       - TripHW8.accdb - Corresponding Access file with VBA modules
       - Assignment8.xls - Corresponding Excel file with VBA modules
-  - Excel-- Simple and Compound Interest calculations displayed in Excel: Takes user-inputted values for PV, duration, type of interest, and interest rate and computes the future value. Then, it displays all values on the active sheet.
+  - Excel -- Simple and Compound Interest calculations displayed in Excel: Takes user-inputted values for PV, duration, type of interest, and interest rate and computes the future value. Then, it displays all values on the active sheet.
       - W7 Discussion.docx - Corresponding code and description are highlighted.
       - W7 Discussion.xlsm - Excel file with the corresponding module named Post
   - Girl Scout Cookie Ordering Module: Module in a Word document that replicates ordering girl scout cookies. Uses labels to make exiting the ordering screen without ordering cookies harder to replicate the aggressiveness of some girl scouts.
