@@ -60,7 +60,7 @@ SAS Projects:
   - Multiple Regression: Analyzed a multiple regression model’s collinearity and assumptions based on house pricing data. Then, transformed via Box-Cox Transformation and implemented backward selection.
       - 481 Project 1.docx - Project report with analysis and SAS output snapshots along with SAS source code
       - Dataset_175-348.xlsx - Dataset
-  - 2-Way ANOVA model: Studied the impact of oil pattern and the effects of a bowler on the score after a game of bowling by using a mixed model where oil pattern is fixed and bowler is random.
+  - 2-Way ANOVA Mixed-Effect Model: Studied the impact of oil pattern and the effects of a bowler on the score after a game of bowling by using a mixed model where oil pattern is fixed and bowler is random.
       - wpba2009_v2.xlsx - Dataset
       - Project 2.docx - Analysis of the dataset
       - 481 Project 2.sas - SAS code
